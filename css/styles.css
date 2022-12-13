@@ -11457,6 +11457,10 @@ header.masthead h1, header.masthead .h1 {
   opacity: 1;
 }
 
+#portfolio img {
+  width:  500px;
+}
+
 .cards-container {
   width: 100%;
   margin-top: 10vh;
