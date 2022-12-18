@@ -11457,9 +11457,6 @@ header.masthead h1, header.masthead .h1 {
   opacity: 1;
 }
 
-#portfolio img {
-  width:  500px;
-}
 
 .cards-container {
   width: 100%;
@@ -11509,3 +11506,15 @@ header.masthead h1, header.masthead .h1 {
   text-align: center;
 }
 
+#contact_card {
+  transform: translateY(-5px) scale(1.005) translateZ(0);
+  box-shadow: 0 24px 36px rgba(0,0,0,0.11);
+  background-color: white;
+  border: solid 3pt #29a3a3;
+  height:300px;
+  width:300px;
+}
+
+#contact_card:hover {
+  cursor: default;
+}
