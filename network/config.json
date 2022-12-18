@@ -9,8 +9,8 @@
   },
   "text": {
     "more": "",
-    "intro": "This graph represents the links between the characters, places and properties of the first part of the novel \"The Florios of Sicily\" (from \"Prologo\" to \"Cortice\" chapters). \nThe last chapter taken into account for the realization of this graph ends with Ignazio\u0027s death. With him ends also the first Florios\u0027 generation, the one in which the two brothers, Ignazio and Paolo, started building the trading house and the richness of the family.",
-    "title": "Ignazio and Paolo Florio Era"
+    "intro": "This graph represents the links between the characters, places and properties of the second part of the novel \"The Florios of Sicily\" (from \"Zolfo\" to \"Epilogo\" chapters). \nThe last chapter taken into account for the realization of this graph ends with Vincenzo\u0027s death. With him ends also the first Florios\u0027 second generation, the one in which the Florios became one of the richest, most famous and prestigious families among the European elite. He pioneered in tuna fishing and its canned preparation in Palermo. With him the Florios became the first Italian producer of Marsala wine. In 1841, he founded the Oretea foundry.[5] His business acumen was such that he became the intermediary for the city of Palermo of the bank of the Rothschild family and as the founder of Banco Florio, he himself became a renowned banker in Palermo and Sicily with many aristocratic families and the upper middle class. As a ship owner he promoted the development of maritime communications with the continent, building numerous steamers.",
+    "title": "Vincenzo Florio Era"
   },
   "legend": {
     "edgeLabel": "Relationships",
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "type",
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
