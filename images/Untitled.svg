@@ -1,0 +1,2268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="7593.8315"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-3139.000000 -5071.654785 7593.831543 6167.654785"
+     height="6167.655" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="10.0"
+              d="M 132.431061,-116.248375 C 163.660095,-147.477402 163.660095,-85.019348 132.431061,-116.248375"
+              class="id_#Bagnara" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -284.027435,-565.553101 C -264.027435,-585.553101 -264.027435,-545.553101 -284.027435,-565.553101"
+              class="id_#ContrPietra" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="350.0"
+              d="M -26.704435,209.864441 C 53.295563,129.864441 53.295563,289.864441 -26.704435,209.864441"
+              class="id_#Ignazio1" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="45.0"
+              d="M -83.443230,-17.165575 C -55.248486,-45.360321 -55.248486,11.029169 -83.443230,-17.165575"
+              class="id_#nipoteIgn" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -46.309090,-84.583847 C -26.293283,-104.599655 -26.293283,-64.568039 -46.309090,-84.583847"
+              class="id_#casaBagnara" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="23.0"
+              d="M -26.704435,209.864441 C -83.458199,175.806198 -117.501480,39.588188 -83.443230,-17.165575"
+              class="id_#Ignazio1 id_#nipoteIgn" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="157.0"
+              d="M 72.701080,43.951904 C 120.927734,-4.274750 120.927734,92.178558 72.701080,43.951904"
+              class="id_#Paolo" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="27.0"
+              d="M 72.701080,43.951904 C 97.330307,128.484360 7.475452,292.226898 -77.057007,316.856110"
+              class="id_#Paolo id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#39be4a"/>
+        <path fill="none" stroke-width="62.0"
+              d="M 72.701080,43.951904 C 46.971077,86.936813 -56.101280,112.819168 -99.086182,87.089157"
+              class="id_#Paolo id_#mogliePaolo" stroke-opacity="1.0"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -334.999512,-93.744797 C -314.994568,-113.749748 -314.994568,-73.739845 -334.999512,-93.744797"
+              class="id_#scialle" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="73.0"
+              d="M -26.704435,209.864441 C -40.005836,156.800827 19.637470,57.253311 72.701080,43.951904"
+              class="id_#Ignazio1 id_#Paolo" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="180.0"
+              d="M -99.086182,87.089157 C -67.217285,55.220264 -67.217285,118.958054 -99.086182,87.089157"
+              class="id_#mogliePaolo" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="203.0"
+              d="M -77.057007,316.856110 C -18.601460,258.400574 -18.601460,375.311646 -77.057007,316.856110"
+              class="id_#Vincenzo1" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="24.0"
+              d="M -99.086182,87.089157 C -116.808533,63.109623 -107.422768,0.556781 -83.443230,-17.165575"
+              class="id_#mogliePaolo id_#nipoteIgn" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="90.0"
+              d="M -99.086182,87.089157 C -60.054775,97.167862 -16.625729,170.833038 -26.704435,209.864441"
+              class="id_#mogliePaolo id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.443230,-17.165575 C -203.757965,-95.376953 -266.912964,-393.166107 -188.701584,-513.480835"
+              class="id_#nipoteIgn id_#fratIgn" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="16.0"
+              d="M -83.443230,-17.165575 C -39.990868,-36.170944 53.695709,0.499544 72.701080,43.951904"
+              class="id_#nipoteIgn id_#Paolo" stroke-opacity="1.0"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 72.701080,43.951904 C 23.191893,42.046791 -48.214203,-35.074657 -46.309090,-84.583847"
+              class="id_#Paolo id_#casaBagnara" stroke-opacity="1.0"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -99.086182,87.089157 C -122.865364,42.199135 -91.199112,-60.804665 -46.309090,-84.583847"
+              class="id_#mogliePaolo id_#casaBagnara" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.297684,-211.744537 C -184.297684,-231.744537 -184.297684,-191.744537 -204.297684,-211.744537"
+              class="id_#fedenuziale" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -99.086182,87.089157 C -182.435638,98.105026 -323.983643,-10.395336 -334.999512,-93.744797"
+              class="id_#mogliePaolo id_#scialle" stroke-opacity="1.0"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -149.085297,210.801605 -334.062317,28.636066 -334.999512,-93.744797"
+              class="id_#Ignazio1 id_#scialle" stroke-opacity="1.0"
+              stroke="#7fa682"/>
+        <path fill="none" stroke-width="46.0"
+              d="M -99.086182,87.089157 C -48.726952,128.636703 -35.509453,266.496887 -77.057007,316.856110"
+              class="id_#mogliePaolo id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C -89.515030,154.895706 -101.277824,-21.773252 -46.309090,-84.583847"
+              class="id_#Ignazio1 id_#casaBagnara" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 448.187439,41.872868 C 468.236877,21.823414 468.236877,61.922321 448.187439,41.872868"
+              class="id_#madreIgn1" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 448.187439,41.872868 C 386.807404,170.449554 101.872253,271.244507 -26.704435,209.864441"
+              class="id_#madreIgn1 id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 448.187439,41.872868 C 353.411926,73.399895 163.958084,-21.472843 132.431061,-116.248375"
+              class="id_#madreIgn1 id_#Bagnara" stroke-opacity="1.0"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 448.187439,41.872868 C 525.929138,175.647888 441.879150,492.922913 308.104126,570.664612"
+              class="id_#madreIgn1 id_#Calabria" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 448.187439,41.872868 C 496.488617,90.270073 496.344543,235.317612 447.947357,283.618774"
+              class="id_#madreIgn1 id_#Sicilia" stroke-opacity="1.0"
+              stroke="#39be4a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C -63.430988,-34.667675 -149.699707,-356.795105 -71.080132,-492.927185"
+              class="id_#Paolo id_#madreGiuseppina" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C -27.652184,-62.547966 -18.432281,-372.827637 88.067589,-473.180908"
+              class="id_#Paolo id_#padreGiuseppina" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C 147.382553,-31.561176 372.674347,-32.808601 448.187439,41.872868"
+              class="id_#Paolo id_#madreIgn1" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 72.701080,43.951904 C -39.965939,123.123795 -327.724304,72.881119 -406.896210,-39.785904"
+              class="id_#Paolo id_#bagnaroti" stroke-opacity="1.0"
+              stroke="#7fa24c"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -26.704435,209.864441 C -60.099899,112.814774 35.381393,-82.852913 132.431061,-116.248375"
+              class="id_#Ignazio1 id_#Bagnara" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3128.301758,-3410.649414 C -3108.301758,-3430.649414 -3108.301758,-3390.649414 -3128.301758,-3410.649414"
+              class="id_#ContrGranaro" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="27.0"
+              d="M 87.871910,6.720863 C 110.238579,-15.645807 110.238579,29.087534 87.871910,6.720863"
+              class="id_#PaoloBarbaro" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 87.871910,6.720863 C 29.259161,66.140846 -147.789932,67.351692 -207.209900,8.738947"
+              class="id_#PaoloBarbaro id_#MattiaBarbaro" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="29.0"
+              d="M -207.209900,8.738947 C -183.507828,-14.963131 -183.507828,32.441025 -207.209900,8.738947"
+              class="id_#MattiaBarbaro" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -207.209900,8.738947 C -344.934906,4.673790 -545.424744,-208.011475 -541.359558,-345.736481"
+              class="id_#MattiaBarbaro id_#figliaMattia" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -207.209900,8.738947 C -212.417603,56.955772 -292.554382,121.469467 -340.771210,116.261765"
+              class="id_#MattiaBarbaro id_#RaffaeleBarbaro" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="16.0"
+              d="M -207.209900,8.738947 C -130.883713,12.862957 -22.580425,133.538254 -26.704435,209.864441"
+              class="id_#MattiaBarbaro id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1128.840698,-4476.098145 C 1148.840698,-4496.098145 1148.840698,-4456.098145 1128.840698,-4476.098145"
+              class="id_#capoMarturano" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="26.0"
+              d="M 72.701080,43.951904 C 68.289040,33.471531 77.391541,11.132905 87.871910,6.720863"
+              class="id_#Paolo id_#PaoloBarbaro" stroke-opacity="1.0"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 72.701080,43.951904 C 21.559193,0.696763 9.729080,-140.898773 52.984222,-192.040665"
+              class="id_#Paolo id_#schifazzoFB" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C 112.417313,215.062759 313.302429,431.542847 308.104126,570.664612"
+              class="id_#Ignazio1 id_#Calabria" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="16.0"
+              d="M -26.704435,209.864441 C 37.307228,116.072739 274.012268,71.402664 367.803986,135.414337"
+              class="id_#Ignazio1 id_#Palermo" stroke-opacity="1.0"
+              stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1411.190430,-221.476028 C 1435.990967,-246.276596 1435.990967,-196.675461 1411.190430,-221.476028"
+              class="id_#Luigi16" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1411.190430,-221.476028 C 1451.492188,-279.072784 1598.339966,-305.015320 1655.936646,-264.713593"
+              class="id_#Luigi16 id_#MariaAntonietta" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1411.190430,-221.476028 C 1393.820557,-165.180374 1283.322144,-106.791809 1227.026489,-124.161751"
+              class="id_#Luigi16 id_#Ferdinando" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1411.190430,-221.476028 C 1435.306396,-288.003052 1571.270874,-351.619598 1637.797974,-327.503601"
+              class="id_#Luigi16 id_#MariaCarolina" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1411.190430,-221.476028 C 1352.907959,-8.368347 945.822510,223.869278 732.714844,165.586700"
+              class="id_#Luigi16 id_#inglesi" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1411.190430,-221.476028 C 1332.329590,-149.247269 1105.695435,-159.195251 1033.466675,-238.056000"
+              class="id_#Luigi16 id_#RegnoNapoli" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1411.190430,-221.476028 C 1358.247681,-147.628967 1168.062744,-116.272614 1094.215698,-169.215439"
+              class="id_#Luigi16 id_#Francia" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 132.431061,-116.248375 C 288.276672,-320.817017 828.898010,-393.901611 1033.466675,-238.056000"
+              class="id_#Bagnara id_#RegnoNapoli" stroke-opacity="1.0"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 716.450867,509.152557 C 736.523193,489.080231 736.523193,529.224915 716.450867,509.152557"
+              class="id_#Messina" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -207.209900,8.738947 C -144.185120,-40.200657 23.761475,-19.072884 72.701080,43.951904"
+              class="id_#MattiaBarbaro id_#Paolo" stroke-opacity="1.0"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 72.701080,43.951904 C 150.014145,3.223812 327.075897,58.101269 367.803986,135.414337"
+              class="id_#Paolo id_#Palermo" stroke-opacity="1.0"
+              stroke="#7f898c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 87.871910,6.720863 C 169.597015,-23.526855 337.556274,53.689228 367.803986,135.414337"
+              class="id_#PaoloBarbaro id_#Palermo" stroke-opacity="1.0"
+              stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 87.871910,6.720863 C 72.189888,-26.784815 98.925377,-100.566360 132.431061,-116.248375"
+              class="id_#PaoloBarbaro id_#Bagnara" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 87.871910,6.720863 C 159.139267,39.944633 216.204651,196.681320 182.980881,267.948669"
+              class="id_#PaoloBarbaro id_#putia" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C -152.672852,235.972717 -380.787903,86.182518 -406.896210,-39.785904"
+              class="id_#Ignazio1 id_#bagnaroti" stroke-opacity="1.0"
+              stroke="#7fa682"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -26.704435,209.864441 C 82.976791,129.684952 367.767853,173.937561 447.947357,283.618774"
+              class="id_#Ignazio1 id_#Sicilia" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C 95.388702,16.312073 568.856995,-90.876762 762.409363,31.216383"
+              class="id_#Ignazio1 id_#Mediterraneo" stroke-opacity="1.0"
+              stroke="#26859e"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -26.704435,209.864441 C 26.849476,179.544220 152.660675,214.394745 182.980881,267.948669"
+              class="id_#Ignazio1 id_#putia" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -83.443230,-17.165575 C -15.361641,48.361526 -11.529907,248.774506 -77.057007,316.856110"
+              class="id_#nipoteIgn id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -83.443230,-17.165575 C -60.084930,-80.156998 69.439644,-139.606674 132.431061,-116.248375"
+              class="id_#nipoteIgn id_#Bagnara" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.443230,-17.165575 C -233.237579,-86.726227 -353.588104,-415.758759 -284.027435,-565.553101"
+              class="id_#nipoteIgn id_#ContrPietra" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.443230,-17.165575 C -89.500061,-38.076057 -67.219574,-78.527016 -46.309090,-84.583847"
+              class="id_#nipoteIgn id_#casaBagnara" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -151.195404,230.418533 -132.746658,-10.445444 -46.309090,-84.583847"
+              class="id_#Vincenzo1 id_#casaBagnara" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.086182,87.089157 C -266.602905,-6.451046 -377.567627,-398.036407 -284.027435,-565.553101"
+              class="id_#mogliePaolo id_#ContrPietra" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 917.923523,-176.670593 C 943.601685,-202.348770 943.601685,-150.992416 917.923523,-176.670593"
+              class="id_#Napoli" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 917.923523,-176.670593 C 870.316650,-4.229713 540.244873,183.021240 367.803986,135.414337"
+              class="id_#Napoli id_#Palermo" stroke-opacity="1.0"
+              stroke="#a54d61"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 87.871910,6.720863 C 66.553947,60.186142 -45.620903,108.407120 -99.086182,87.089157"
+              class="id_#PaoloBarbaro id_#mogliePaolo" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 87.871910,6.720863 C 41.142063,-26.053905 20.209454,-145.310822 52.984222,-192.040665"
+              class="id_#PaoloBarbaro id_#schifazzoFB" stroke-opacity="1.0"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.871910,6.720863 C 116.913177,101.733704 17.955837,287.814850 -77.057007,316.856110"
+              class="id_#PaoloBarbaro id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 87.871910,6.720863 C 42.774765,15.296122 -37.733833,-39.486706 -46.309090,-84.583847"
+              class="id_#PaoloBarbaro id_#casaBagnara" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 72.701080,43.951904 C 52.607018,-0.034155 88.445000,-96.154312 132.431061,-116.248375"
+              class="id_#Paolo id_#Bagnara" stroke-opacity="1.0"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="14.0"
+              d="M 72.701080,43.951904 C 139.556396,66.695297 205.724274,201.093353 182.980881,267.948669"
+              class="id_#Paolo id_#putia" stroke-opacity="1.0" stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 732.714844,165.586700 C 777.383362,120.918205 777.383362,210.255188 732.714844,165.586700"
+              class="id_#inglesi" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 732.714844,165.586700 C 773.504700,268.983246 679.594788,485.262878 576.198242,526.052795"
+              class="id_#inglesi id_#francesi" stroke-opacity="1.0"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 806.803284,84.310875 1039.849854,73.529854 1121.125610,147.618332"
+              class="id_#inglesi id_#Venezia" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 917.923523,-176.670593 C 978.002686,-186.930420 1083.511230,-112.201324 1093.771118,-52.122112"
+              class="id_#Napoli id_#Livorno" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 917.923523,-176.670593 C 930.450928,-266.873901 1084.546997,-383.387695 1174.750244,-370.860291"
+              class="id_#Napoli id_#Genova" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 917.923523,-176.670593 C 948.635132,-337.085114 1235.324341,-531.639465 1395.738892,-500.927856"
+              class="id_#Napoli id_#chiesa" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C -91.147720,113.545700 -43.334530,-127.597374 52.984222,-192.040665"
+              class="id_#Ignazio1 id_#schifazzoFB" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 308.104126,570.664612 C 328.151093,550.617676 328.151093,590.711548 308.104126,570.664612"
+              class="id_#Calabria" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -26.704435,209.864441 C -146.544891,161.061295 -253.100830,-91.904083 -204.297684,-211.744537"
+              class="id_#Ignazio1 id_#fedenuziale" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="29.0"
+              d="M 367.803986,135.414337 C 410.703064,92.515244 410.703064,178.313431 367.803986,135.414337"
+              class="id_#Palermo" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -956.505554,190.583237 C -916.259277,150.336945 -916.259277,230.829529 -956.505554,190.583237"
+              class="id_#cala" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -956.505554,190.583237 C -1033.616089,270.439545 -1269.066284,274.558228 -1348.922607,197.447708"
+              class="id_#cala id_#portaDoga" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -956.505554,190.583237 C -1033.210083,119.543411 -1041.707153,-102.073120 -970.667358,-178.777664"
+              class="id_#cala id_#portaCalci" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -956.505554,190.583237 C -1051.006714,254.104370 -1288.040283,207.634232 -1351.561401,113.133018"
+              class="id_#cala id_#portaCarbo" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -956.505554,190.583237 C -1051.973267,231.796143 -1256.994263,150.413925 -1298.207153,54.946186"
+              class="id_#cala id_#chiesa1" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -956.505554,190.583237 C -1034.081543,228.455536 -1207.253906,168.900024 -1245.126221,91.324059"
+              class="id_#cala id_#chiesa2" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -956.505554,190.583237 C -1010.758972,257.089722 -1191.898926,275.469269 -1258.405396,221.215805"
+              class="id_#cala id_#chiesa3" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -956.505554,190.583237 C -1036.063599,248.945190 -1242.943604,217.151093 -1301.305542,137.593048"
+              class="id_#cala id_#chiesa4" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -956.505554,190.583237 C -1008.043701,274.379517 -1211.045410,322.766632 -1294.841675,271.228455"
+              class="id_#cala id_#chiesa5" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -956.505554,190.583237 C -925.255432,187.376068 -873.569519,229.440445 -870.362366,260.690552"
+              class="id_#cala id_#castello" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -956.505554,190.583237 C -1002.786377,224.890518 -1123.668579,206.930176 -1157.975830,160.649353"
+              class="id_#cala id_#lazzaretto" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 4434.831543,-1610.790283 C 4454.831543,-1630.790283 4454.831543,-1590.790283 4434.831543,-1610.790283"
+              class="id_#montePel" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="23.0"
+              d="M -99.086182,87.089157 C -136.380966,93.043854 -201.255203,46.033737 -207.209900,8.738947"
+              class="id_#mogliePaolo id_#MattiaBarbaro" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -99.086182,87.089157 C 3.956891,3.376160 284.091003,32.371262 367.803986,135.414337"
+              class="id_#mogliePaolo id_#Palermo" stroke-opacity="1.0"
+              stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -99.086182,87.089157 C -93.450241,0.118206 45.460106,-121.884323 132.431061,-116.248375"
+              class="id_#mogliePaolo id_#Bagnara" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -26.704435,209.864441 C -44.417885,146.320450 24.327923,24.434313 87.871910,6.720863"
+              class="id_#Ignazio1 id_#PaoloBarbaro" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.871910,6.720863 C -70.944382,59.005772 -387.596161,-100.791321 -439.881073,-259.607605"
+              class="id_#PaoloBarbaro id_#Emiddio" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 72.701080,43.951904 C -90.527252,85.756439 -398.076538,-96.379272 -439.881073,-259.607605"
+              class="id_#Paolo id_#Emiddio" stroke-opacity="1.0"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -406.896210,-39.785904 C -386.411713,-60.270401 -386.411713,-19.301405 -406.896210,-39.785904"
+              class="id_#bagnaroti" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -406.896210,-39.785904 C -216.916107,-159.685898 247.903992,-54.565765 367.803986,135.414337"
+              class="id_#bagnaroti id_#Palermo" stroke-opacity="1.0"
+              stroke="#ff6e44"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C 103.934937,-11.687498 234.244812,-48.295834 289.884216,-17.061983"
+              class="id_#Paolo id_#casaPalermo1" stroke-opacity="1.0"
+              stroke="#7f898c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -46.309090,-84.583847 C 70.055420,-59.935337 207.629395,151.584167 182.980881,267.948669"
+              class="id_#casaBagnara id_#putia" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -439.881073,-259.607605 C -413.507446,-285.981232 -413.507446,-233.233994 -439.881073,-259.607605"
+              class="id_#Emiddio" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -439.881073,-259.607605 C -302.382751,-258.427246 -97.905807,-50.409180 -99.086182,87.089157"
+              class="id_#Emiddio id_#mogliePaolo" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -439.881073,-259.607605 C -263.351349,-248.348511 -15.445351,33.334709 -26.704435,209.864441"
+              class="id_#Emiddio id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -439.881073,-259.607605 C -529.872314,-137.284363 -848.344116,-88.786400 -970.667358,-178.777664"
+              class="id_#Emiddio id_#portaCalci" stroke-opacity="1.0"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 132.431061,-116.248375 C 275.507751,-99.378204 464.817505,140.542084 447.947357,283.618774"
+              class="id_#Bagnara id_#Sicilia" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -439.881073,-259.607605 C -483.047211,-240.263855 -576.812073,-275.997406 -596.155823,-319.163544"
+              class="id_#Emiddio id_#chiesa6" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -439.881073,-259.607605 C -551.381287,-261.943787 -715.127319,-432.698364 -712.791138,-544.198547"
+              class="id_#Emiddio id_#chiesa7" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -439.881073,-259.607605 C -296.746796,-345.398193 46.640472,-259.382660 132.431061,-116.248375"
+              class="id_#Emiddio id_#Bagnara" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -499.865204,-172.706619 C -479.865204,-192.706619 -479.865204,-152.706619 -499.865204,-172.706619"
+              class="id_#mastroF" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -499.865204,-172.706619 C -328.718872,-190.824554 -44.822380,38.718086 -26.704435,209.864441"
+              class="id_#mastroF id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -499.865204,-172.706619 C -367.750244,-200.903259 -127.282829,-45.025810 -99.086182,87.089157"
+              class="id_#mastroF id_#mogliePaolo" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -499.865204,-172.706619 C -505.248566,-202.083649 -469.258087,-254.224228 -439.881073,-259.607605"
+              class="id_#mastroF id_#Emiddio" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -99.086182,87.089157 C -42.122337,-11.535149 191.259918,-74.025833 289.884216,-17.061983"
+              class="id_#mogliePaolo id_#casaPalermo1" stroke-opacity="1.0"
+              stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 367.803986,135.414337 C 321.724762,120.503021 274.972900,29.017239 289.884216,-17.061983"
+              class="id_#Palermo id_#casaPalermo1" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="129.0"
+              d="M -26.704435,209.864441 C -15.376614,241.333282 -45.588161,305.528290 -77.057007,316.856110"
+              class="id_#Ignazio1 id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -625.994507,10.394092 C -603.464111,-12.136275 -603.464111,32.924458 -625.994507,10.394092"
+              class="id_#pianoSG" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -625.994507,10.394092 C -412.688477,-99.890083 72.696701,54.642670 182.980881,267.948669"
+              class="id_#pianoSG id_#putia" stroke-opacity="1.0"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -36.039738,844.753845 C -16.039738,824.753845 -16.039738,864.753845 -36.039738,844.753845"
+              class="id_#Bottari" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C 98.406387,338.709381 92.805206,719.643005 -36.039738,844.753845"
+              class="id_#Ignazio1 id_#Bottari" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 182.980881,267.948669 C 203.572311,247.357239 203.572311,288.540100 182.980881,267.948669"
+              class="id_#putia" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="17.0"
+              d="M 69.825111,597.059143 C 90.680931,576.203308 90.680931,617.914978 69.825111,597.059143"
+              class="id_#Canzoneri" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -97.115059,1055.924927 C -77.115059,1035.924927 -77.115059,1075.924927 -97.115059,1055.924927"
+              class="id_#figliaCanzo" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -97.115059,1055.924927 C -182.864227,947.987793 -149.582245,657.458313 -41.645103,571.709167"
+              class="id_#figliaCanzo id_#Saguto" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -36.039738,844.753845 C -91.769745,791.265991 -95.132965,627.439209 -41.645103,571.709167"
+              class="id_#Bottari id_#Saguto" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 69.825111,597.059143 C -40.221138,485.862488 -38.495560,153.998154 72.701080,43.951904"
+              class="id_#Canzoneri id_#Paolo" stroke-opacity="1.0"
+              stroke="#69b8a2"/>
+        <path fill="none" stroke-width="37.0"
+              d="M -41.645103,571.709167 C -17.908854,547.972900 -17.908854,595.445435 -41.645103,571.709167"
+              class="id_#Saguto" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 69.825111,597.059143 C 98.191086,667.771057 34.672176,816.387878 -36.039738,844.753845"
+              class="id_#Canzoneri id_#Bottari" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 69.825111,597.059143 C 26.634171,508.605896 94.527634,311.139587 182.980881,267.948669"
+              class="id_#Canzoneri id_#putia" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -41.645103,571.709167 C -14.281066,554.485107 52.601063,569.695068 69.825111,597.059143"
+              class="id_#Saguto id_#Canzoneri" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.645103,571.709167 C 28.095829,501.550415 237.945374,500.923706 308.104126,570.664612"
+              class="id_#Saguto id_#Calabria" stroke-opacity="1.0"
+              stroke="#69b8a2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.645103,571.709167 C -47.014252,402.560364 198.655182,140.783478 367.803986,135.414337"
+              class="id_#Saguto id_#Palermo" stroke-opacity="1.0"
+              stroke="#e9849a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C 70.040421,267.997467 127.958145,500.314270 69.825111,597.059143"
+              class="id_#Ignazio1 id_#Canzoneri" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C 225.124237,102.213837 366.366089,418.241486 308.104126,570.664612"
+              class="id_#Paolo id_#Calabria" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 217.932739,772.593567 C 238.345627,752.180664 238.345627,793.006470 217.932739,772.593567"
+              class="id_#Gulì" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 217.932739,772.593567 C 120.471146,615.183472 210.393906,232.875916 367.803986,135.414337"
+              class="id_#Gulì id_#Palermo" stroke-opacity="1.0" stroke="#e9849a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 115.278740,711.768799 C 135.297226,691.750305 135.297226,731.787292 115.278740,711.768799"
+              class="id_#primacliente" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 115.278740,711.768799 C -26.800179,586.720947 -52.346771,186.030823 72.701080,43.951904"
+              class="id_#primacliente id_#Paolo" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 115.278740,711.768799 C 147.974487,703.402954 209.566895,739.897766 217.932739,772.593567"
+              class="id_#primacliente id_#Gulì" stroke-opacity="1.0"
+              stroke="#69b8a2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C 102.073067,281.848663 187.262970,582.991333 115.278740,711.768799"
+              class="id_#Ignazio1 id_#primacliente" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 227.795303,330.022980 C 248.572418,309.245880 248.572418,350.800079 227.795303,330.022980"
+              class="id_#cortice" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C 36.253914,-110.970879 213.967316,-398.025818 368.890106,-434.472961"
+              class="id_#Paolo id_#Peru" stroke-opacity="1.0" stroke="#7f898c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 72.701080,43.951904 C 160.934143,70.147278 253.990677,241.789932 227.795303,330.022980"
+              class="id_#Paolo id_#cortice" stroke-opacity="1.0"
+              stroke="#7f898c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -41.645103,571.709167 C -124.327316,443.288483 -55.719612,126.634117 72.701080,43.951904"
+              class="id_#Saguto id_#Paolo" stroke-opacity="1.0" stroke="#69b8a2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.645103,571.709167 C -57.472012,466.031860 77.303589,283.775574 182.980881,267.948669"
+              class="id_#Saguto id_#putia" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C -73.749588,176.979446 -492.966949,156.844757 -625.994507,10.394092"
+              class="id_#Paolo id_#pianoSG" stroke-opacity="1.0"
+              stroke="#7fa24c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -41.645103,571.709167 C -36.094261,469.483856 125.569992,324.472137 227.795303,330.022980"
+              class="id_#Saguto id_#cortice" stroke-opacity="1.0"
+              stroke="#e9849a"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -250.364624,-31.012476 C -230.356522,-51.020584 -230.356522,-11.004370 -250.364624,-31.012476"
+              class="id_#garzoneMichi" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 72.701080,43.951904 C -6.904940,93.572174 -200.744354,48.593544 -250.364624,-31.012476"
+              class="id_#Paolo id_#garzoneMichi" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 72.701080,43.951904 C 110.072090,-7.161507 242.798721,-27.775112 293.912140,9.595898"
+              class="id_#Paolo id_#viaMaterassai" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C 105.752579,-79.769989 340.912689,-215.775574 464.634583,-182.724060"
+              class="id_#Paolo id_#castellammare" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C 208.095627,-96.536850 621.920593,-104.178162 762.409363,31.216383"
+              class="id_#Paolo id_#Mediterraneo" stroke-opacity="1.0"
+              stroke="#268169"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 72.701080,43.951904 C 104.326317,-36.964828 273.139252,-110.902069 354.056000,-79.276833"
+              class="id_#Paolo id_#magazzinoMaterassai" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -26.704435,209.864441 C -119.611855,206.421097 -253.807968,61.894943 -250.364624,-31.012476"
+              class="id_#Ignazio1 id_#garzoneMichi" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -99.086182,87.089157 C -219.806870,177.131805 -535.951843,131.114777 -625.994507,10.394092"
+              class="id_#mogliePaolo id_#pianoSG" stroke-opacity="1.0"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 368.373749,446.664917 C 388.565277,426.473389 388.565277,466.856445 368.373749,446.664917"
+              class="id_#palazzoSteri" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -99.086182,87.089157 C -6.500858,66.847641 162.739365,175.363342 182.980881,267.948669"
+              class="id_#mogliePaolo id_#putia" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -406.896210,-39.785904 C -401.408203,-86.306030 -323.395996,-147.854218 -276.875885,-142.366211"
+              class="id_#bagnaroti id_#levatrice" stroke-opacity="1.0"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -406.896210,-39.785904 C -440.679871,14.069756 -572.138855,44.177753 -625.994507,10.394092"
+              class="id_#bagnaroti id_#pianoSG" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -406.896210,-39.785904 C -403.308655,-64.957024 -360.170624,-97.332359 -334.999512,-93.744797"
+              class="id_#bagnaroti id_#scialle" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="14.0"
+              d="M -276.875885,-142.366211 C -256.502136,-162.739960 -256.502136,-121.992470 -276.875885,-142.366211"
+              class="id_#levatrice" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -276.875885,-142.366211 C -195.426880,-132.033081 -88.753044,5.640141 -99.086182,87.089157"
+              class="id_#levatrice id_#mogliePaolo" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.443230,-17.165575 C -149.070328,17.829834 -300.004120,-28.117699 -334.999512,-93.744797"
+              class="id_#nipoteIgn id_#scialle" stroke-opacity="1.0"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 72.701080,43.951904 C 212.378220,65.359970 389.781799,306.987793 368.373749,446.664917"
+              class="id_#Paolo id_#palazzoSteri" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -8.380596,75.884102 220.075653,-97.600677 354.056000,-79.276833"
+              class="id_#Ignazio1 id_#magazzinoMaterassai" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 69.825111,597.059143 C 99.456009,507.270569 278.585144,417.034058 368.373749,446.664917"
+              class="id_#Canzoneri id_#palazzoSteri" stroke-opacity="1.0"
+              stroke="#69b8a2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -956.505554,190.583237 C -926.441162,88.443199 -728.134583,-19.670288 -625.994507,10.394092"
+              class="id_#cala id_#pianoSG" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -83.443230,-17.165575 C -147.169891,-3.519173 -263.229492,-78.639549 -276.875885,-142.366211"
+              class="id_#nipoteIgn id_#levatrice" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.443230,-17.165575 C -152.657883,43.000950 -346.729706,29.428753 -406.896210,-39.785904"
+              class="id_#nipoteIgn id_#bagnaroti" stroke-opacity="1.0"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.443230,-17.165575 C -138.915970,107.598915 -409.271820,211.536560 -534.036316,156.063812"
+              class="id_#nipoteIgn id_#viaSSebastiano" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -276.875885,-142.366211 C -156.395477,-121.954376 -6.292595,89.384018 -26.704435,209.864441"
+              class="id_#levatrice id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -227.991745,476.014526 -693.131470,488.350098 -852.289917,337.415375"
+              class="id_#Vincenzo1 id_#chiesaPiedi" stroke-opacity="1.0"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -246.951187,464.284058 -722.934387,430.584747 -870.362366,260.690552"
+              class="id_#Vincenzo1 id_#castello" stroke-opacity="1.0"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 132.431061,-116.248375 C 314.194611,-319.198730 891.265381,-350.978973 1094.215698,-169.215439"
+              class="id_#Bagnara id_#Francia" stroke-opacity="1.0"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 132.431061,-116.248375 C 212.121292,24.738134 120.176880,355.753235 -20.809633,435.443481"
+              class="id_#Bagnara id_#Inghilterra" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 132.431061,-116.248375 C 230.813431,-243.551666 569.341919,-286.933075 696.645203,-188.550705"
+              class="id_#Bagnara id_#Spagna" stroke-opacity="1.0"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 132.431061,-116.248375 C 76.721771,-240.729950 179.880157,-511.016235 304.361725,-566.725525"
+              class="id_#Bagnara id_#India" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 132.431061,-116.248375 C 58.382896,-232.228638 121.281029,-517.271301 237.261292,-591.319458"
+              class="id_#Bagnara id_#Cina" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 132.431061,-116.248375 C 116.077957,-227.185104 257.953369,-418.119843 368.890106,-434.472961"
+              class="id_#Bagnara id_#Peru" stroke-opacity="1.0" stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -26.704435,209.864441 C -2.634830,105.687416 189.735107,-14.473709 293.912140,9.595898"
+              class="id_#Ignazio1 id_#viaMaterassai" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 72.701080,43.951904 C -7.836708,-74.275993 48.698456,-372.424500 166.926361,-452.962280"
+              class="id_#Paolo id_#Curatolo" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 72.701080,43.951904 C -103.813988,279.119507 -721.337891,367.098328 -956.505554,190.583237"
+              class="id_#Paolo id_#cala" stroke-opacity="1.0" stroke="#7fa24c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 166.926361,-452.962280 C 186.926361,-472.962280 186.926361,-432.962280 166.926361,-452.962280"
+              class="id_#Curatolo" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 52.984222,-192.040665 C 72.984222,-212.040665 72.984222,-172.040665 52.984222,-192.040665"
+              class="id_#schifazzoFB" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 732.714844,165.586700 C 682.061035,149.776108 629.796204,50.079525 645.606750,-0.574293"
+              class="id_#inglesi id_#Tirreno" stroke-opacity="1.0"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 738.054565,26.326103 954.955078,-174.555176 1094.215698,-169.215439"
+              class="id_#inglesi id_#Francia" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 732.714844,165.586700 C 711.779663,132.773727 729.596375,52.151543 762.409363,31.216383"
+              class="id_#inglesi id_#Mediterraneo" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 732.714844,165.586700 C 653.698181,232.534393 434.751678,214.430969 367.803986,135.414337"
+              class="id_#inglesi id_#Palermo" stroke-opacity="1.0"
+              stroke="#a54d61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 699.367737,246.146606 528.507263,316.965851 447.947357,283.618774"
+              class="id_#inglesi id_#Sicilia" stroke-opacity="1.0"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 732.714844,165.586700 C 783.352112,127.664856 916.190735,146.737961 954.112549,197.375198"
+              class="id_#inglesi id_#Malta" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 831.844910,113.594688 1058.527832,184.301727 1110.519897,283.431732"
+              class="id_#inglesi id_#Turchia" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 812.452576,103.964783 1024.492065,131.138535 1086.114014,210.876297"
+              class="id_#inglesi id_#Egitto" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 828.509888,92.305222 1082.124756,126.075546 1155.406128,221.870575"
+              class="id_#inglesi id_#Tunisi" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 654.673462,101.973152 633.031677,-110.509300 696.645203,-188.550705"
+              class="id_#inglesi id_#Spagna" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.086182,87.089157 C -59.536720,-116.941170 305.832947,-363.662445 509.863251,-324.112976"
+              class="id_#mogliePaolo id_#barone" stroke-opacity="1.0"
+              stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 509.863251,-324.112976 C 530.011414,-344.261139 530.011414,-303.964813 509.863251,-324.112976"
+              class="id_#barone" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 509.863251,-324.112976 C 459.596619,-317.990326 375.012756,-384.206329 368.890106,-434.472961"
+              class="id_#barone id_#Peru" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 509.863251,-324.112976 C 573.356873,-203.795670 488.121307,71.920731 367.803986,135.414337"
+              class="id_#barone id_#Palermo" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 509.863251,-324.112976 C 584.276855,-136.872192 415.036072,255.609375 227.795303,330.022980"
+              class="id_#barone id_#cortice" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -320.828064,-412.135895 C -300.828064,-432.135895 -300.828064,-392.135895 -320.828064,-412.135895"
+              class="id_#domesticaRosa" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -320.828064,-412.135895 C -176.634674,-356.639282 -43.589554,-57.104221 -99.086182,87.089157"
+              class="id_#domesticaRosa id_#mogliePaolo" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -320.828064,-412.135895 C -258.083679,-366.972382 -231.712387,-205.110580 -276.875885,-142.366211"
+              class="id_#domesticaRosa id_#levatrice" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 289.884216,-17.061983 C 309.884216,-37.061981 309.884216,2.938017 289.884216,-17.061983"
+              class="id_#casaPalermo1" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 293.912140,9.595898 C 314.048920,-10.540886 314.048920,29.732681 293.912140,9.595898"
+              class="id_#viaMaterassai" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 293.912140,9.595898 C 323.396454,83.452705 256.837677,238.464355 182.980881,267.948669"
+              class="id_#viaMaterassai id_#putia" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -250.364624,-31.012476 C -260.760986,-102.021027 -169.842728,-224.128403 -98.834183,-234.524765"
+              class="id_#garzoneMichi id_#aristocratica" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -98.834183,-234.524765 C -78.834183,-254.524765 -78.834183,-214.524765 -98.834183,-234.524765"
+              class="id_#aristocratica" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -98.834183,-234.524765 C 4.469612,-160.072861 47.747459,106.560646 -26.704435,209.864441"
+              class="id_#aristocratica id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.871910,6.720863 C 266.962402,-47.511467 616.946594,139.775818 671.178955,318.866302"
+              class="id_#PaoloBarbaro id_#napoletani" stroke-opacity="1.0"
+              stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.871910,6.720863 C 248.613647,-90.474548 635.519470,4.844955 732.714844,165.586700"
+              class="id_#PaoloBarbaro id_#inglesi" stroke-opacity="1.0"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.871910,6.720863 C 282.475922,-25.934769 623.365295,216.987762 656.020935,411.591766"
+              class="id_#PaoloBarbaro id_#siciliani" stroke-opacity="1.0"
+              stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 922.109070,79.265930 C 942.699341,58.675682 942.699341,99.856178 922.109070,79.265930"
+              class="id_#Napoleone" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 922.109070,79.265930 C 942.406982,-22.403088 1125.357422,-144.459686 1227.026489,-124.161751"
+              class="id_#Napoleone id_#Ferdinando" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 922.109070,79.265930 C 901.494385,134.408936 787.857849,186.201385 732.714844,165.586700"
+              class="id_#Napoleone id_#inglesi" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 922.109070,79.265930 C 880.916260,-6.469976 947.730713,-196.863129 1033.466675,-238.056000"
+              class="id_#Napoleone id_#RegnoNapoli" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 922.109070,79.265930 C 868.147278,214.968842 583.650269,337.580536 447.947357,283.618774"
+              class="id_#Napoleone id_#Sicilia" stroke-opacity="1.0"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 922.109070,79.265930 C 822.477722,201.356628 489.894684,235.045670 367.803986,135.414337"
+              class="id_#Napoleone id_#Palermo" stroke-opacity="1.0"
+              stroke="#a54d61"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 72.701080,43.951904 C -17.301311,22.563625 -120.222466,-144.522385 -98.834183,-234.524765"
+              class="id_#Paolo id_#aristocratica" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="19.0"
+              d="M -26.704435,209.864441 C 22.516878,232.780334 61.974983,340.986176 39.059074,390.207489"
+              class="id_#Ignazio1 id_#Ben" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="31.0"
+              d="M 39.059074,390.207489 C 67.239410,362.027161 67.239410,418.387817 39.059074,390.207489"
+              class="id_#Ben" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -41.645103,571.709167 C -111.025925,496.352081 -102.061523,279.245270 -26.704435,209.864441"
+              class="id_#Saguto id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 464.634583,-182.724060 C 484.634583,-202.724060 484.634583,-162.724060 464.634583,-182.724060"
+              class="id_#castellammare" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -250.364624,-31.012476 C -195.066803,36.022305 -212.672272,219.521194 -279.707031,274.819000"
+              class="id_#garzoneMichi id_#Mauri" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 72.701080,43.951904 C 197.621063,-169.217072 704.754517,-301.590576 917.923523,-176.670593"
+              class="id_#Paolo id_#Napoli" stroke-opacity="1.0" stroke="#268169"/>
+        <path fill="none" stroke-width="11.0"
+              d="M -26.704435,209.864441 C -64.314041,273.455872 -216.115601,312.428619 -279.707031,274.819000"
+              class="id_#Ignazio1 id_#Mauri" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 716.062256,294.670563 497.457611,463.317505 368.373749,446.664917"
+              class="id_#inglesi id_#palazzoSteri" stroke-opacity="1.0"
+              stroke="#268169"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 761.384338,49.833679 978.018127,-80.791611 1093.771118,-52.122112"
+              class="id_#inglesi id_#Livorno" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 656.435974,154.047699 559.326050,22.320824 570.865051,-53.958096"
+              class="id_#inglesi id_#magazzinoSteri" stroke-opacity="1.0"
+              stroke="#26859e"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 354.056000,-79.276833 C 374.580200,-99.801025 374.580200,-58.752640 354.056000,-79.276833"
+              class="id_#magazzinoMaterassai" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -279.707031,274.819000 C -258.528137,253.640106 -258.528137,295.997894 -279.707031,274.819000"
+              class="id_#Mauri" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 716.450867,509.152557 C 582.893799,571.057739 289.700500,463.580017 227.795303,330.022980"
+              class="id_#Messina id_#cortice" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -216.520920,391.968445 -774.401550,380.399719 -956.505554,190.583237"
+              class="id_#Ignazio1 id_#cala" stroke-opacity="1.0"
+              stroke="#7fa682"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1200.780640,-4963.183594 C -1180.764404,-4983.199707 -1180.764404,-4943.167480 -1200.780640,-4963.183594"
+              class="id_#vicoloNeve" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1200.780640,-4963.183594 C -1222.768188,-4976.584473 -1235.648315,-5029.666992 -1222.247437,-5051.654785"
+              class="id_#vicoloNeve id_#viaAlloro" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1200.780640,-4963.183594 C -1175.606689,-4947.823242 -1160.886230,-4887.021484 -1176.246704,-4861.847656"
+              class="id_#vicoloNeve id_#stradaZaga" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -85.673347,475.927338 -337.204712,701.609619 -496.275940,692.993286"
+              class="id_#Vincenzo1 id_#viaTavola" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -364.248566,386.479675 C -344.248566,366.479675 -344.248566,406.479675 -364.248566,386.479675"
+              class="id_#Peppino" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -364.248566,386.479675 C -320.734955,315.116638 -148.420029,273.342499 -77.057007,316.856110"
+              class="id_#Peppino id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#39be4a"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 576.198242,526.052795 C 597.091003,505.160065 597.091003,546.945557 576.198242,526.052795"
+              class="id_#francesi" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 576.198242,526.052795 C 553.757080,465.619324 610.745483,341.307434 671.178955,318.866302"
+              class="id_#francesi id_#napoletani" stroke-opacity="1.0"
+              stroke="#b98a42"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 576.198242,526.052795 C 379.078613,530.332092 76.980331,241.071533 72.701080,43.951904"
+              class="id_#francesi id_#Paolo" stroke-opacity="1.0"
+              stroke="#39be4a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 576.198242,526.052795 C 593.406311,565.337524 560.291199,650.076721 521.006470,667.284790"
+              class="id_#francesi id_#Marsiglia" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 576.198242,526.052795 C 445.933960,553.075439 210.003540,398.212952 182.980881,267.948669"
+              class="id_#francesi id_#putia" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -77.057007,316.856110 C -125.994438,348.978699 -247.584457,323.756409 -279.707031,274.819000"
+              class="id_#Vincenzo1 id_#Mauri" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C -58.890217,312.696320 -261.416687,418.665436 -364.248566,386.479675"
+              class="id_#Ignazio1 id_#Peppino" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -279.707031,274.819000 C -175.348022,38.949158 334.995178,-158.317108 570.865051,-53.958096"
+              class="id_#Mauri id_#magazzinoSteri" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 83.556908,819.641418 C 103.559219,799.639099 103.559219,839.643738 83.556908,819.641418"
+              class="id_#Mimmo" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 83.556908,819.641418 C 36.294090,777.871277 28.055016,644.321960 69.825111,597.059143"
+              class="id_#Mimmo id_#Canzoneri" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 83.556908,819.641418 C 101.022507,783.356689 181.647995,755.127930 217.932739,772.593567"
+              class="id_#Mimmo id_#Gulì" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C 117.303223,309.767548 183.460022,675.633789 83.556908,819.641418"
+              class="id_#Ignazio1 id_#Mimmo" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -26.704435,209.864441 C 19.067459,299.015167 -46.000824,501.399139 -135.151566,547.171021"
+              class="id_#Ignazio1 id_#ufficioFlorio" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -77.057007,316.856110 C -34.830910,255.067032 121.191811,225.722580 182.980881,267.948669"
+              class="id_#Vincenzo1 id_#putia" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C 53.816704,199.847382 -208.353088,405.364044 -364.248566,386.479675"
+              class="id_#Paolo id_#Peppino" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C -46.610443,-60.509472 -68.885666,-396.168823 35.575706,-515.480347"
+              class="id_#Paolo id_#maestro" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C -40.722469,-40.555347 -84.096916,-337.451538 0.410338,-450.875092"
+              class="id_#Paolo id_#piazzaOliva" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -77.057007,316.856110 C -13.453174,258.519012 169.458221,266.419159 227.795303,330.022980"
+              class="id_#Vincenzo1 id_#cortice" stroke-opacity="1.0"
+              stroke="#b98a42"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -279.707031,274.819000 C -255.398834,158.163940 -43.953964,19.643707 72.701080,43.951904"
+              class="id_#Mauri id_#Paolo" stroke-opacity="1.0" stroke="#00c0c9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 162.296051,-279.265167 C 182.305786,-299.274902 182.305786,-259.255432 162.296051,-279.265167"
+              class="id_#Orsola" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 162.296051,-279.265167 C 222.321869,-143.639145 108.921585,149.838623 -26.704435,209.864441"
+              class="id_#Orsola id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 162.296051,-279.265167 C 209.020477,-196.702759 155.263489,-2.772518 72.701080,43.951904"
+              class="id_#Orsola id_#Paolo" stroke-opacity="1.0" stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 162.296051,-279.265167 C 275.875793,-173.959351 288.286682,154.368927 182.980881,267.948669"
+              class="id_#Orsola id_#putia" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.443230,-17.165575 C -86.715286,-118.733353 60.728275,-275.993103 162.296051,-279.265167"
+              class="id_#nipoteIgn id_#Orsola" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 69.825111,597.059143 C 37.091919,445.134399 215.879257,168.147522 367.803986,135.414337"
+              class="id_#Canzoneri id_#Palermo" stroke-opacity="1.0"
+              stroke="#e9849a"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -207.209900,8.738947 C -217.317978,-40.468376 -158.669113,-129.441467 -109.461784,-139.549545"
+              class="id_#MattiaBarbaro id_#Marsala" stroke-opacity="1.0"
+              stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 72.701080,43.951904 C -10.324013,6.561361 -78.775833,-174.062057 -41.385288,-257.087158"
+              class="id_#Paolo id_#campagna" stroke-opacity="1.0"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C -109.316956,353.294556 -448.380890,444.520966 -591.811035,361.908447"
+              class="id_#Ignazio1 id_#mastroSalvo" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C 294.491180,8.242081 680.741089,287.362488 716.450867,509.152557"
+              class="id_#Paolo id_#Messina" stroke-opacity="1.0"
+              stroke="#7f898c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -113.138710,156.533096 -162.793121,-53.115273 -109.461784,-139.549545"
+              class="id_#Ignazio1 id_#Marsala" stroke-opacity="1.0"
+              stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -591.811035,361.908447 C -571.811035,341.908447 -571.811035,381.908447 -591.811035,361.908447"
+              class="id_#mastroSalvo" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -207.209900,8.738947 C -256.852112,38.971237 -376.663910,9.856325 -406.896210,-39.785904"
+              class="id_#MattiaBarbaro id_#bagnaroti" stroke-opacity="1.0"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -207.209900,8.738947 C -164.279175,-84.186707 39.505402,-159.179108 132.431061,-116.248375"
+              class="id_#MattiaBarbaro id_#Bagnara" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -77.057007,316.856110 C -169.918716,329.480072 -328.147247,209.123474 -340.771210,116.261765"
+              class="id_#Vincenzo1 id_#RaffaeleBarbaro" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -77.057007,316.856110 C -164.711014,281.263245 -242.802750,96.392960 -207.209900,8.738947"
+              class="id_#Vincenzo1 id_#MattiaBarbaro" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.086182,87.089157 C -170.567841,178.250656 -414.532593,207.770416 -505.694061,136.288757"
+              class="id_#mogliePaolo id_#Caruso" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.086182,87.089157 C -156.381287,6.713704 -121.760742,-199.792068 -41.385288,-257.087158"
+              class="id_#mogliePaolo id_#campagna" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C -137.217499,290.947235 -424.611298,246.801819 -505.694061,136.288757"
+              class="id_#Ignazio1 id_#Caruso" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -180.550323,157.236816 -332.377716,-152.473358 -279.750092,-306.319244"
+              class="id_#Ignazio1 id_#notaio" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -107.280594,474.050110 -388.406952,664.505676 -545.600952,634.282104"
+              class="id_#Vincenzo1 id_#donSorce" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -279.707031,274.819000 C -318.423615,207.103577 -274.925323,47.455528 -207.209900,8.738947"
+              class="id_#Mauri id_#MattiaBarbaro" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -279.707031,274.819000 C -275.492889,114.177910 -28.210037,-120.462517 132.431061,-116.248375"
+              class="id_#Mauri id_#Bagnara" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -279.707031,274.819000 C -188.543518,180.907364 89.069229,176.785141 182.980881,267.948669"
+              class="id_#Mauri id_#putia" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -882.629150,-741.854980 C -862.629150,-761.854980 -862.629150,-721.854980 -882.629150,-741.854980"
+              class="id_#GiuseppeBarbaro" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -882.629150,-741.854980 C -697.630066,-733.955139 -431.981201,-444.606689 -439.881073,-259.607605"
+              class="id_#GiuseppeBarbaro id_#Emiddio" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 162.296051,-279.265167 C 233.649689,-112.170273 90.037872,245.502457 -77.057007,316.856110"
+              class="id_#Orsola id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.443230,-17.165575 C -203.219208,5.633583 -417.081909,-139.831635 -439.881073,-259.607605"
+              class="id_#nipoteIgn id_#Emiddio" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -138.930939,300.570679 -443.330078,268.290314 -534.036316,156.063812"
+              class="id_#Ignazio1 id_#viaSSebastiano" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -956.505554,190.583237 C -906.295959,199.106537 -843.766602,287.205811 -852.289917,337.415375"
+              class="id_#cala id_#chiesaPiedi" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 332.895508,734.397766 C 352.901062,714.392212 352.901062,754.403320 332.895508,734.397766"
+              class="id_#VincenzoRomano" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 332.895508,734.397766 C 209.622772,671.090881 119.673988,391.221436 182.980881,267.948669"
+              class="id_#VincenzoRomano id_#putia" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -135.151566,547.171021 C -115.014038,527.033508 -115.014038,567.308533 -135.151566,547.171021"
+              class="id_#ufficioFlorio" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C 150.122223,242.851135 365.882202,557.571106 332.895508,734.397766"
+              class="id_#Ignazio1 id_#VincenzoRomano" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 332.895508,734.397766 C 252.813705,759.544128 94.971466,677.140930 69.825111,597.059143"
+              class="id_#VincenzoRomano id_#Canzoneri" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 332.895508,734.397766 C 317.542114,765.029480 248.564453,787.946960 217.932739,772.593567"
+              class="id_#VincenzoRomano id_#Gulì" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 354.056000,-79.276833 C 402.481567,-117.574905 532.566956,-102.383652 570.865051,-53.958096"
+              class="id_#magazzinoMaterassai id_#magazzinoSteri"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 354.056000,-79.276833 C 410.663818,27.835268 334.907410,273.415161 227.795303,330.022980"
+              class="id_#magazzinoMaterassai id_#cortice" stroke-opacity="1.0"
+              stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -26.704435,209.864441 C -50.160866,292.767090 -209.699463,381.936401 -292.602112,358.479980"
+              class="id_#Ignazio1 id_#drogheria" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -124.566643,341.243439 -468.428375,391.518585 -599.807373,293.656372"
+              class="id_#Ignazio1 id_#pittore" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -6.954330,33.078941 287.849091,-202.474167 464.634583,-182.724060"
+              class="id_#Ignazio1 id_#castellammare" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -388.076263,524.686523 C -368.076263,504.686523 -368.076263,544.686523 -388.076263,524.686523"
+              class="id_#clienteMarghe" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -388.076263,524.686523 C -367.438477,420.916565 -180.826950,296.218323 -77.057007,316.856110"
+              class="id_#clienteMarghe id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C 55.007652,211.135803 175.668732,335.610962 174.397354,417.323059"
+              class="id_#Ignazio1 id_#VincenzoMazza" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -77.057007,316.856110 C -42.612934,374.538025 -77.469666,512.726929 -135.151566,547.171021"
+              class="id_#Vincenzo1 id_#ufficioFlorio" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -292.602112,358.479980 C -272.078491,337.956360 -272.078491,379.003601 -292.602112,358.479980"
+              class="id_#drogheria" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C 140.034821,189.789246 420.256531,409.785278 440.331726,576.524536"
+              class="id_#Ignazio1 id_#sommacco" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -77.057007,316.856110 C -24.373165,191.595551 242.543427,82.730499 367.803986,135.414337"
+              class="id_#Vincenzo1 id_#Palermo" stroke-opacity="1.0"
+              stroke="#b98a42"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C 121.293915,140.781982 446.915161,259.155792 515.997620,407.154144"
+              class="id_#Ignazio1 id_#Gibbs" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 737.684875,257.243652 607.654541,402.184082 515.997620,407.154144"
+              class="id_#inglesi id_#Gibbs" stroke-opacity="1.0"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 732.714844,165.586700 C 601.014404,357.794952 115.151253,448.556610 -77.057007,316.856110"
+              class="id_#inglesi id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 732.714844,165.586700 C 638.907837,349.242004 222.714386,484.014465 39.059074,390.207489"
+              class="id_#inglesi id_#Ben" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="26.0"
+              d="M 39.059074,390.207489 C 1.165581,398.760406 -68.504066,354.749603 -77.057007,316.856110"
+              class="id_#Ben id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 39.059074,390.207489 C 181.653076,455.475128 297.642578,767.267639 232.374939,909.861633"
+              class="id_#Ben id_#Woodhouse" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 39.059074,390.207489 C 170.186096,475.698944 238.639465,800.626648 153.148026,931.753662"
+              class="id_#Ben id_#Hopps" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 39.059074,390.207489 C 137.836105,298.209106 423.999268,308.377075 515.997620,407.154144"
+              class="id_#Ben id_#Gibbs" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 39.059074,390.207489 C 36.132530,411.228455 0.211307,438.370026 -20.809633,435.443481"
+              class="id_#Ben id_#Inghilterra" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 39.059074,390.207489 C 99.518990,287.112091 344.851959,223.158875 447.947357,283.618774"
+              class="id_#Ben id_#Sicilia" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -625.994507,10.394092 C -718.779236,57.567360 -928.716309,-10.849899 -975.889587,-103.634666"
+              class="id_#pianoSG id_#viaArgentieri" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C 37.990906,253.731720 305.249359,331.617004 368.373749,446.664917"
+              class="id_#Vincenzo1 id_#palazzoSteri" stroke-opacity="1.0"
+              stroke="#39be4a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C 21.296404,205.207764 336.299011,185.265350 447.947357,283.618774"
+              class="id_#Vincenzo1 id_#Sicilia" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -77.057007,316.856110 C -42.090057,329.324097 -8.341635,400.476532 -20.809633,435.443481"
+              class="id_#Vincenzo1 id_#Inghilterra" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 762.409363,31.216383 C 782.747620,10.878145 782.747620,51.554619 762.409363,31.216383"
+              class="id_#Mediterraneo" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -8.771988,101.161423 181.181198,-34.994431 289.884216,-17.061983"
+              class="id_#Ignazio1 id_#casaPalermo1" stroke-opacity="1.0"
+              stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1395.738892,-500.927856 C 1415.738892,-520.927856 1415.738892,-480.927856 1395.738892,-500.927856"
+              class="id_#chiesa" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 347.071198,-301.764893 C 367.097717,-321.791412 367.097717,-281.738373 347.071198,-301.764893"
+              class="id_#Leone" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 347.071198,-301.764893 C 438.653595,-218.475601 451.093292,43.831936 367.803986,135.414337"
+              class="id_#Leone id_#Palermo" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 347.071198,-301.764893 C 351.185516,-41.781242 -32.618469,354.365662 -292.602112,358.479980"
+              class="id_#Leone id_#drogheria" stroke-opacity="1.0"
+              stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 39.059074,390.207489 C 122.398682,409.716522 218.144531,563.989441 198.635513,647.329041"
+              class="id_#Ben id_#Whitaker" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -137.738373,677.568481 C -115.187469,655.017578 -115.187469,700.119385 -137.738373,677.568481"
+              class="id_#GiuseppePa" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -137.738373,677.568481 C -145.060730,468.029175 158.264648,142.736710 367.803986,135.414337"
+              class="id_#GiuseppePa id_#Palermo" stroke-opacity="1.0"
+              stroke="#e9849a"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -137.738373,677.568481 C -209.072403,561.820862 -142.452042,281.198486 -26.704435,209.864441"
+              class="id_#GiuseppePa id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -137.738373,677.568481 C -197.744568,593.289734 -161.335754,376.862335 -77.057007,316.856110"
+              class="id_#GiuseppePa id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -137.738373,677.568481 C -139.691574,637.177979 -82.035622,573.662415 -41.645103,571.709167"
+              class="id_#GiuseppePa id_#Saguto" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C 105.856476,252.289368 241.060440,514.768127 198.635513,647.329041"
+              class="id_#Ignazio1 id_#Whitaker" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -137.738373,677.568481 C -159.851074,584.736816 -53.772617,412.320190 39.059074,390.207489"
+              class="id_#GiuseppePa id_#Ben" stroke-opacity="1.0"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 773.627441,8.774673 1070.214478,-165.074402 1227.026489,-124.161751"
+              class="id_#inglesi id_#Ferdinando" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -83.443230,-17.165575 C -163.757996,-60.606697 -219.068466,-246.240540 -175.627350,-326.555298"
+              class="id_#nipoteIgn id_#Mistretta" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.443230,-17.165575 C 65.685028,-159.657318 503.115021,-149.702545 645.606750,-0.574293"
+              class="id_#nipoteIgn id_#Tirreno" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -191.265121,-164.534760 C -171.265121,-184.534760 -171.265121,-144.534760 -191.265121,-164.534760"
+              class="id_#PietroSpo" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.443230,-17.165575 C 37.322205,-76.899048 308.070526,14.648903 367.803986,135.414337"
+              class="id_#nipoteIgn id_#Palermo" stroke-opacity="1.0"
+              stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -191.265121,-164.534760 C -140.226913,-156.625305 -75.533768,-68.203789 -83.443230,-17.165575"
+              class="id_#PietroSpo id_#nipoteIgn" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -191.265121,-164.534760 C -83.473145,-122.567062 15.263268,102.072464 -26.704435,209.864441"
+              class="id_#PietroSpo id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -191.265121,-164.534760 C -122.504547,-132.645767 -67.197189,18.328585 -99.086182,87.089157"
+              class="id_#PietroSpo id_#mogliePaolo" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -77.057007,316.856110 C -121.780296,188.337585 3.912544,-71.525085 132.431061,-116.248375"
+              class="id_#Vincenzo1 id_#Bagnara" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -137.738373,677.568481 C -101.336533,743.311157 -145.347778,896.527893 -211.090439,932.929749"
+              class="id_#GiuseppePa id_#Gu" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -137.738373,677.568481 C -87.385765,790.489075 -181.237762,1035.398926 -294.158356,1085.751465"
+              class="id_#GiuseppePa id_#Nic" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -137.738373,677.568481 C -232.528824,644.723572 -325.447083,453.270416 -292.602112,358.479980"
+              class="id_#GiuseppePa id_#drogheria" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -211.090439,932.929749 C -191.065308,912.904602 -191.065308,952.954895 -211.090439,932.929749"
+              class="id_#Gu" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -211.090439,932.929749 C -249.445480,826.796631 -147.778290,610.064209 -41.645103,571.709167"
+              class="id_#Gu id_#Saguto" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -211.090439,932.929749 C -222.081436,809.572510 -53.532120,608.050171 69.825111,597.059143"
+              class="id_#Gu id_#Canzoneri" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -211.090439,932.929749 C -307.498474,782.908325 -227.078415,413.264160 -77.057007,316.856110"
+              class="id_#Gu id_#Vincenzo1" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -211.090439,932.929749 C -273.054413,840.590210 -227.491089,609.135010 -135.151566,547.171021"
+              class="id_#Gu id_#ufficioFlorio" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -77.057007,316.856110 C -19.004013,360.744354 2.243126,513.656128 -41.645103,571.709167"
+              class="id_#Vincenzo1 id_#Saguto" stroke-opacity="1.0"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.728394,-667.566589 C -471.728394,-687.566589 -471.728394,-647.566589 -491.728394,-667.566589"
+              class="id_#Marianna" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.086182,87.089157 C -328.545776,14.686447 -564.131104,-438.106995 -491.728394,-667.566589"
+              class="id_#mogliePaolo id_#Marianna" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="23.0"
+              d="M -204.816757,428.950348 C -184.351639,408.485229 -184.351639,449.415466 -204.816757,428.950348"
+              class="id_#Isa" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="21.0"
+              d="M -204.816757,428.950348 C -201.683655,380.979553 -125.027802,313.723022 -77.057007,316.856110"
+              class="id_#Isa id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -35.632179,365.105347 -281.885162,584.575134 -437.126099,575.647400"
+              class="id_#Ignazio1 id_#piazzaEligio" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -26.704435,209.864441 C 19.590332,253.801300 23.127213,389.148712 -20.809633,435.443481"
+              class="id_#Ignazio1 id_#Inghilterra" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.086182,87.089157 C -13.760010,141.104706 33.205917,350.117310 -20.809633,435.443481"
+              class="id_#mogliePaolo id_#Inghilterra" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -77.057007,316.856110 C 8.360020,343.520294 96.489304,511.642120 69.825111,597.059143"
+              class="id_#Vincenzo1 id_#Canzoneri" stroke-opacity="1.0"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -77.057007,316.856110 C -278.201294,467.491272 -805.870422,391.727539 -956.505554,190.583237"
+              class="id_#Vincenzo1 id_#cala" stroke-opacity="1.0"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -200.611328,376.093506 -474.798889,279.618134 -534.036316,156.063812"
+              class="id_#Vincenzo1 id_#viaSSebastiano" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 922.109070,79.265930 C 880.559204,101.595963 784.739380,72.766235 762.409363,31.216383"
+              class="id_#Napoleone id_#Mediterraneo" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -77.057007,316.856110 C 73.088448,349.005646 250.082275,622.448120 217.932739,772.593567"
+              class="id_#Vincenzo1 id_#Gulì" stroke-opacity="1.0"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 732.714844,165.586700 C 751.063599,208.549789 714.142090,300.517578 671.178955,318.866302"
+              class="id_#inglesi id_#napoletani" stroke-opacity="1.0"
+              stroke="#a54d61"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 656.020935,411.591766 C 676.153687,391.459015 676.153687,431.724518 656.020935,411.591766"
+              class="id_#siciliani" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 656.020935,411.591766 C 543.142090,413.999664 370.211914,248.293213 367.803986,135.414337"
+              class="id_#siciliani id_#Palermo" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 656.020935,411.591766 C 687.619080,419.017914 723.877014,477.554413 716.450867,509.152557"
+              class="id_#siciliani id_#Messina" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 671.178955,318.866302 C 691.200256,298.845001 691.200256,338.887604 671.178955,318.866302"
+              class="id_#napoletani" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 671.178955,318.866302 C 573.813599,342.850891 391.788574,232.779724 367.803986,135.414337"
+              class="id_#napoletani id_#Palermo" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.816757,428.950348 C -221.939209,504.751648 -361.324829,592.769836 -437.126099,575.647400"
+              class="id_#Isa id_#piazzaEligio" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -204.816757,428.950348 C -209.748520,446.903534 -244.075958,466.435699 -262.029144,461.503937"
+              class="id_#Isa id_#baronessaPilli" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -262.029144,461.503937 C -242.029144,441.503937 -242.029144,481.503937 -262.029144,461.503937"
+              class="id_#baronessaPilli" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.086182,87.089157 C -279.750671,105.252556 -577.992432,-138.499084 -596.155823,-319.163544"
+              class="id_#mogliePaolo id_#chiesa6" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C 134.672607,92.088135 553.402649,157.489243 671.178955,318.866302"
+              class="id_#Ignazio1 id_#napoletani" stroke-opacity="1.0"
+              stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -18.509712,289.304077 -125.377106,420.755646 -204.816757,428.950348"
+              class="id_#Ignazio1 id_#Isa" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -204.816757,428.950348 C -252.042877,339.432007 -188.604538,134.315277 -99.086182,87.089157"
+              class="id_#Isa id_#mogliePaolo" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -97.312576,440.628204 -313.354004,595.902954 -437.126099,575.647400"
+              class="id_#Vincenzo1 id_#piazzaEligio" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -262.029144,461.503937 C -253.964279,395.579956 -142.981003,308.791260 -77.057007,316.856110"
+              class="id_#baronessaPilli id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 39.059074,390.207489 C 156.837830,497.880096 171.997070,836.057129 64.324463,953.835938"
+              class="id_#Ben id_#Leeds" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 39.059074,390.207489 C -1.967519,446.731232 -148.293030,469.976959 -204.816757,428.950348"
+              class="id_#Ben id_#Isa" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 39.059074,390.207489 C 53.849426,273.499847 251.096359,120.623985 367.803986,135.414337"
+              class="id_#Ben id_#Palermo" stroke-opacity="1.0" stroke="#b98a42"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C 112.641426,267.329132 471.479492,477.586334 521.006470,667.284790"
+              class="id_#Vincenzo1 id_#Marsiglia" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C 50.736931,290.585571 281.833618,442.870667 308.104126,570.664612"
+              class="id_#Vincenzo1 id_#Calabria" stroke-opacity="1.0"
+              stroke="#39be4a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.443230,-17.165575 C 82.991768,-63.286819 401.826111,117.183777 447.947357,283.618774"
+              class="id_#nipoteIgn id_#Sicilia" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C 116.323868,49.125046 571.975464,22.558395 732.714844,165.586700"
+              class="id_#Ignazio1 id_#inglesi" stroke-opacity="1.0"
+              stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -64.990753,473.935425 -282.510376,727.653748 -439.589691,739.720032"
+              class="id_#Vincenzo1 id_#Londra" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 447.947357,283.618774 C 469.544586,262.021545 469.544586,305.216003 447.947357,283.618774"
+              class="id_#Sicilia" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 447.947357,283.618774 C 505.005371,343.723053 500.436005,519.466492 440.331726,576.524536"
+              class="id_#Sicilia id_#sommacco" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -26.704435,209.864441 C 48.227226,182.996201 200.927063,255.091324 227.795303,330.022980"
+              class="id_#Ignazio1 id_#cortice" stroke-opacity="1.0"
+              stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C 78.354416,265.312042 388.787659,421.113129 440.331726,576.524536"
+              class="id_#Vincenzo1 id_#sommacco" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 576.198242,526.052795 C 553.853271,647.014038 338.894012,794.938477 217.932739,772.593567"
+              class="id_#francesi id_#Gulì" stroke-opacity="1.0"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 576.198242,526.052795 C 392.380035,583.395691 30.638432,393.682648 -26.704435,209.864441"
+              class="id_#francesi id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 576.198242,526.052795 C 559.119324,563.320435 477.599396,593.603455 440.331726,576.524536"
+              class="id_#francesi id_#sommacco" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C 95.433380,228.044388 487.386536,353.562378 576.198242,526.052795"
+              class="id_#Vincenzo1 id_#francesi" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -72.857040,555.296021 -424.216919,919.255859 -662.656860,923.455811"
+              class="id_#Vincenzo1 id_#zolfo" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -662.656860,923.455811 C -642.656860,903.455811 -642.656860,943.455811 -662.656860,923.455811"
+              class="id_#zolfo" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 367.803986,135.414337 C 413.473572,149.026550 461.559570,237.949219 447.947357,283.618774"
+              class="id_#Palermo id_#Sicilia" stroke-opacity="1.0"
+              stroke="#b98a42"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 367.803986,135.414337 C 378.723969,202.337799 294.718781,319.102997 227.795303,330.022980"
+              class="id_#Palermo id_#cortice" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -26.704435,209.864441 C 65.729324,238.335663 161.673111,419.693146 133.201874,512.126892"
+              class="id_#Ignazio1 id_#figlioCanzoneri" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 133.201874,512.126892 C 153.222687,492.106079 153.222687,532.147705 133.201874,512.126892"
+              class="id_#figlioCanzoneri" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -41.645103,571.709167 C -18.592159,524.823303 86.316017,489.073944 133.201874,512.126892"
+              class="id_#Saguto id_#figlioCanzoneri" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 69.825111,597.059143 C 65.514015,567.397339 103.540070,516.437988 133.201874,512.126892"
+              class="id_#Canzoneri id_#figlioCanzoneri" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 133.201874,512.126892 C 202.241379,547.274048 253.079910,703.554077 217.932739,772.593567"
+              class="id_#figlioCanzoneri id_#Gulì" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 133.201874,512.126892 C 27.466713,430.592041 -8.833763,149.687073 72.701080,43.951904"
+              class="id_#figlioCanzoneri id_#Paolo" stroke-opacity="1.0"
+              stroke="#69b8a2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 133.201874,512.126892 C 104.779785,389.863953 245.541061,163.836426 367.803986,135.414337"
+              class="id_#figlioCanzoneri id_#Palermo" stroke-opacity="1.0"
+              stroke="#e9849a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -77.057007,316.856110 C 4.048927,313.858490 130.204254,431.020935 133.201874,512.126892"
+              class="id_#Vincenzo1 id_#figlioCanzoneri" stroke-opacity="1.0"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C 134.768829,273.482849 281.551147,611.120300 217.932739,772.593567"
+              class="id_#Ignazio1 id_#Gulì" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C 48.301559,364.011658 -70.410248,707.741455 -224.557449,782.747437"
+              class="id_#Ignazio1 id_#Pizzimenti" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.645103,571.709167 C -36.019917,650.499268 -145.767319,777.122253 -224.557449,782.747437"
+              class="id_#Saguto id_#Pizzimenti" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.645103,571.709167 C 50.447346,559.970459 206.194046,680.501099 217.932739,772.593567"
+              class="id_#Saguto id_#Gulì" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1227.026489,-124.161751 C 1247.428955,-144.564209 1247.428955,-103.759293 1227.026489,-124.161751"
+              class="id_#Ferdinando" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1227.026489,-124.161751 C 1154.704224,-72.842918 969.242371,-104.348228 917.923523,-176.670593"
+              class="id_#Ferdinando id_#Napoli" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -186.456528,289.828400 -546.030518,170.146179 -625.994507,10.394092"
+              class="id_#Ignazio1 id_#pianoSG" stroke-opacity="1.0"
+              stroke="#7fa682"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 656.020935,411.591766 C 588.811584,427.611877 463.967468,350.828094 447.947357,283.618774"
+              class="id_#siciliani id_#Sicilia" stroke-opacity="1.0"
+              stroke="#b98a42"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C 99.671295,178.208908 336.718201,320.289185 368.373749,446.664917"
+              class="id_#Ignazio1 id_#palazzoSteri" stroke-opacity="1.0"
+              stroke="#00c0c9"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -77.057007,316.856110 C -66.172485,379.579254 -143.930435,489.990784 -206.653580,500.875305"
+              class="id_#Vincenzo1 id_#doganiere" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -206.653580,500.875305 C -186.653580,480.875305 -186.653580,520.875305 -206.653580,500.875305"
+              class="id_#doganiere" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -206.653580,500.875305 C -179.644608,429.599182 -32.217022,363.198547 39.059074,390.207489"
+              class="id_#doganiere id_#Ben" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1348.922607,197.447708 C -1328.922607,177.447708 -1328.922607,217.447708 -1348.922607,197.447708"
+              class="id_#portaDoga" stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -70.060989,151.406921 188.606812,-86.272850 354.056000,-79.276833"
+              class="id_#Vincenzo1 id_#magazzinoMaterassai" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -77.057007,316.856110 C -88.828896,365.294617 -179.144501,420.294586 -227.583038,408.522705"
+              class="id_#Vincenzo1 id_#tritacortice" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.701080,43.951904 C -33.837967,48.212372 -200.037201,-105.205498 -204.297684,-211.744537"
+              class="id_#Paolo id_#fedenuziale" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C -37.412270,77.309082 145.359039,-137.585724 277.914398,-148.293549"
+              class="id_#Ignazio1 id_#china" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -279.707031,274.819000 C -265.553833,294.130219 -273.290894,344.326782 -292.602112,358.479980"
+              class="id_#Mauri id_#drogheria" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -26.704435,209.864441 C -113.956055,91.472870 -67.246117,-216.991913 51.145458,-304.243530"
+              class="id_#Ignazio1 id_#vicere" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 51.145458,-304.243530 C 71.145462,-324.243530 71.145462,-284.243530 51.145458,-304.243530"
+              class="id_#vicere" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -26.704435,209.864441 C -27.148499,289.771820 -147.675659,408.966766 -227.583038,408.522705"
+              class="id_#Ignazio1 id_#tritacortice" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 51.145458,-304.243530 C 127.689240,-318.407318 263.750610,-224.837341 277.914398,-148.293549"
+              class="id_#vicere id_#china" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 367.803986,135.414337 C 327.861908,125.029015 283.526825,49.537952 293.912140,9.595898"
+              class="id_#Palermo id_#viaMaterassai" stroke-opacity="1.0"
+              stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 367.803986,135.414337 C 507.087860,92.800705 779.934143,237.806091 822.547791,377.089966"
+              class="id_#Palermo id_#Licata" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 367.803986,135.414337 C 491.637726,80.636742 759.554749,184.220947 814.332336,308.054688"
+              class="id_#Palermo id_#Canicatti" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 367.803986,135.414337 C 217.358063,175.874725 -69.001404,10.896385 -109.461784,-139.549545"
+              class="id_#Palermo id_#Marsala" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 367.803986,135.414337 C 508.526733,111.284065 755.806335,286.172791 779.936584,426.895569"
+              class="id_#Palermo id_#Alcamo" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 367.803986,135.414337 C 491.243256,99.772537 729.864868,231.468719 765.506653,354.907990"
+              class="id_#Palermo id_#Girgenti" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 367.803986,135.414337 C 349.564209,318.356781 47.790886,565.410828 -135.151566,547.171021"
+              class="id_#Palermo id_#ufficioFlorio" stroke-opacity="1.0"
+              stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 367.803986,135.414337 C 293.084503,96.650681 239.150726,-73.574051 277.914398,-148.293549"
+              class="id_#Palermo id_#china" stroke-opacity="1.0"
+              stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -77.401413,365.666443 -387.149872,523.324036 -542.951904,472.627075"
+              class="id_#Ignazio1 id_#Assunta" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -41.645103,571.709167 C -80.463470,622.099060 -214.275818,639.456299 -264.665680,600.637939"
+              class="id_#Saguto id_#Franci" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -41.645103,571.709167 C -134.482346,579.254761 -285.056549,451.317230 -292.602112,358.479980"
+              class="id_#Saguto id_#drogheria" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -99.092651,152.831879 113.890175,-126.257904 277.914398,-148.293549"
+              class="id_#Vincenzo1 id_#china" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -64.315216,181.210236 158.266266,-3.145889 293.912140,9.595898"
+              class="id_#Vincenzo1 id_#viaMaterassai" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -264.665680,600.637939 C -244.643860,580.616150 -244.643860,620.659729 -264.665680,600.637939"
+              class="id_#Franci" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -264.665680,600.637939 C -295.228119,474.890961 -152.451385,240.426880 -26.704435,209.864441"
+              class="id_#Franci id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -264.665680,600.637939 C -332.837738,538.482422 -341.862549,342.991058 -279.707031,274.819000"
+              class="id_#Franci id_#Mauri" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -264.665680,600.637939 C -283.900330,506.359863 -171.335114,336.090759 -77.057007,316.856110"
+              class="id_#Franci id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -111.841255,368.289917 -241.168320,393.264221 -292.602112,358.479980"
+              class="id_#Vincenzo1 id_#drogheria" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -264.665680,600.637939 C -249.456253,564.041748 -171.747772,531.961548 -135.151566,547.171021"
+              class="id_#Franci id_#ufficioFlorio" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1222.247437,-5051.654785 C -1202.247437,-5071.654785 -1202.247437,-5031.654785 -1222.247437,-5051.654785"
+              class="id_#viaAlloro" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.816757,428.950348 C -143.630646,424.867767 -45.727669,510.523071 -41.645103,571.709167"
+              class="id_#Isa id_#Saguto" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 293.912140,9.595898 C 289.592651,-63.012581 392.026093,-178.404556 464.634583,-182.724060"
+              class="id_#viaMaterassai id_#castellammare" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 367.803986,135.414337 C 323.542419,52.420532 381.640778,-138.462494 464.634583,-182.724060"
+              class="id_#Palermo id_#castellammare" stroke-opacity="1.0"
+              stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -77.057007,316.856110 C -166.179245,379.061066 -393.170044,338.685150 -455.375000,249.562912"
+              class="id_#Vincenzo1 id_#IgnazioMessina" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -77.057007,316.856110 C -135.683289,417.588776 -374.721649,480.748322 -475.454315,422.122040"
+              class="id_#Vincenzo1 id_#tonnaraArenella" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -455.375000,249.562912 C -434.744385,228.932297 -434.744385,270.193512 -455.375000,249.562912"
+              class="id_#IgnazioMessina" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -455.375000,249.562912 C -415.190186,219.480545 -309.789429,234.634201 -279.707031,274.819000"
+              class="id_#IgnazioMessina id_#Mauri" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -455.375000,249.562912 C -377.580566,155.889099 -120.378250,132.070023 -26.704435,209.864441"
+              class="id_#IgnazioMessina id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -956.505554,190.583237 C -702.677429,-85.312454 91.908295,-118.413788 367.803986,135.414337"
+              class="id_#cala id_#Palermo" stroke-opacity="1.0" stroke="#ff6e44"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.704435,209.864441 C -74.002884,342.065918 -343.252838,469.420502 -475.454315,422.122040"
+              class="id_#Ignazio1 id_#tonnaraArenella" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -455.375000,249.562912 C -424.879028,288.090607 -436.926636,391.626099 -475.454315,422.122040"
+              class="id_#IgnazioMessina id_#tonnaraArenella"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -358.561218,149.498367 C -338.561218,129.498367 -338.561218,169.498367 -358.561218,149.498367"
+              class="id_#Olimpia" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -358.561218,149.498367 C -280.116669,95.200226 -81.002579,131.419876 -26.704435,209.864441"
+              class="id_#Olimpia id_#Ignazio1" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -358.561218,149.498367 C -268.788818,126.669067 -99.886299,227.083710 -77.057007,316.856110"
+              class="id_#Olimpia id_#Vincenzo1" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -358.561218,149.498367 C -319.148041,85.121521 -163.463028,47.675991 -99.086182,87.089157"
+              class="id_#Olimpia id_#mogliePaolo" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -455.375000,249.562912 C -583.842468,122.384613 -585.776306,-261.084106 -458.597992,-389.551605"
+              class="id_#IgnazioMessina id_#notaioSerretta" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -455.375000,249.562912 C -353.510986,51.712082 96.061310,-92.268120 293.912140,9.595898"
+              class="id_#IgnazioMessina id_#viaMaterassai" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.057007,316.856110 C -214.353241,311.495544 -412.256775,97.510345 -406.896210,-39.785904"
+              class="id_#Vincenzo1 id_#bagnaroti" stroke-opacity="1.0"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -458.597992,-389.551605 C -438.572418,-409.577179 -438.572418,-369.526031 -458.597992,-389.551605"
+              class="id_#notaioSerretta" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -458.597992,-389.551605 C -328.662262,-360.171112 -177.829407,-121.196785 -207.209900,8.738947"
+              class="id_#notaioSerretta id_#MattiaBarbaro" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -458.597992,-389.551605 C -285.731537,-453.096771 68.885895,-289.114838 132.431061,-116.248375"
+              class="id_#notaioSerretta id_#Bagnara" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -455.375000,249.562912 C -416.612000,145.810394 -202.838699,48.326141 -99.086182,87.089157"
+              class="id_#IgnazioMessina id_#mogliePaolo" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -455.375000,249.562912 C -401.037018,238.791733 -303.373260,304.141968 -292.602112,358.479980"
+              class="id_#IgnazioMessina id_#drogheria" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#00c4ff" r="40.0" cx="-26.704435"
+                class="id_#Ignazio1" cy="209.86444" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="14.097372" cx="-83.44323"
+                class="id_#nipoteIgn" cy="-17.165575" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="24.113327" cx="72.70108"
+                class="id_#Paolo" cy="43.951904" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="29.227774" cx="-77.05701"
+                class="id_#Vincenzo1" cy="316.8561" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="15.934446" cx="-99.08618"
+                class="id_#mogliePaolo" cy="87.08916" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-188.70158"
+                class="id_#fratIgn" cy="-513.48083" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.024727" cx="448.18744"
+                class="id_#madreIgn1" cy="41.872868" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-71.08013"
+                class="id_#madreGiuseppina" cy="-492.9272" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="88.06759"
+                class="id_#padreGiuseppina" cy="-473.1809" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.2422495" cx="-406.8962"
+                class="id_#bagnaroti" cy="-39.785904" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="11.851039" cx="-207.2099"
+                class="id_#MattiaBarbaro" cy="8.738947" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="11.183335" cx="87.87191"
+                class="id_#PaoloBarbaro" cy="6.720863" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-541.35956"
+                class="id_#figliaMattia" cy="-345.73648" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-340.7712"
+                class="id_#RaffaeleBarbaro" cy="116.261765" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="12.400282" cx="1411.1904"
+                class="id_#Luigi16" cy="-221.47603" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1655.9366"
+                class="id_#MariaAntonietta" cy="-264.7136" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.201231" cx="1227.0265"
+                class="id_#Ferdinando" cy="-124.16175" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1637.798"
+                class="id_#MariaCarolina" cy="-327.5036" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="22.334248" cx="732.71484"
+                class="id_#inglesi" cy="165.5867" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.446368" cx="576.19824"
+                class="id_#francesi" cy="526.0528" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="13.186807" cx="-439.88107"
+                class="id_#Emiddio" cy="-259.6076" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-499.8652"
+                class="id_#mastroF" cy="-172.70662" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="-36.039738"
+                class="id_#Bottari" cy="844.75385" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.427909" cx="69.82511"
+                class="id_#Canzoneri" cy="597.05914" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="-97.11506"
+                class="id_#figliaCanzo" cy="1055.9249" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="11.868125" cx="-41.645103"
+                class="id_#Saguto" cy="571.70917" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.206446" cx="217.93274"
+                class="id_#Gulì" cy="772.59357" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.009245" cx="115.27874"
+                class="id_#primacliente" cy="711.7688" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.004053" cx="-250.36462"
+                class="id_#garzoneMichi" cy="-31.012476" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.186871" cx="-276.8759"
+                class="id_#levatrice" cy="-142.36621" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="166.92636"
+                class="id_#Curatolo" cy="-452.96228" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0740795" cx="509.86325"
+                class="id_#barone" cy="-324.11298" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-320.82806"
+                class="id_#domesticaRosa" cy="-412.1359" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-98.83418"
+                class="id_#aristocratica" cy="-234.52477" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.010652" cx="671.17896"
+                class="id_#napoletani" cy="318.8663" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.066375" cx="656.02094"
+                class="id_#siciliani" cy="411.59177" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.295124" cx="922.1091"
+                class="id_#Napoleone" cy="79.26593" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="14.090166" cx="39.059074"
+                class="id_#Ben" cy="390.2075" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.589448" cx="-279.70703"
+                class="id_#Mauri" cy="274.819" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-364.24857"
+                class="id_#Peppino" cy="386.47968" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.001158" cx="83.55691"
+                class="id_#Mimmo" cy="819.6414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="35.575706"
+                class="id_#maestro" cy="-515.48035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.004864" cx="162.29605"
+                class="id_#Orsola" cy="-279.26517" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-591.81104"
+                class="id_#mastroSalvo" cy="361.90845" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-505.69406"
+                class="id_#Caruso" cy="136.28876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-279.7501"
+                class="id_#notaio" cy="-306.31924" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-545.60095"
+                class="id_#donSorce" cy="634.2821" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-882.62915"
+                class="id_#GiuseppeBarbaro" cy="-741.855" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.002779" cx="332.8955"
+                class="id_#VincenzoRomano" cy="734.39777" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-599.8074"
+                class="id_#pittore" cy="293.65637" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-388.07626"
+                class="id_#clienteMarghe" cy="524.6865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="174.39735"
+                class="id_#VincenzoMazza" cy="417.32306" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="515.9976"
+                class="id_#Gibbs" cy="407.15414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="232.37494"
+                class="id_#Woodhouse" cy="909.86163" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="153.14803"
+                class="id_#Hopps" cy="931.75366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-358.56122"
+                class="id_#Olimpia" cy="149.49837" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.013256" cx="347.0712"
+                class="id_#Leone" cy="-301.7649" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="198.63551"
+                class="id_#Whitaker" cy="647.32904" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="11.275451" cx="-137.73837"
+                class="id_#GiuseppePa" cy="677.5685" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-191.26512"
+                class="id_#PietroSpo" cy="-164.53476" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.012565" cx="-211.09044"
+                class="id_#Gu" cy="932.92975" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="-294.15836"
+                class="id_#Nic" cy="1085.7515" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-491.7284"
+                class="id_#Marianna" cy="-667.5666" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.232557" cx="-204.81676"
+                class="id_#Isa" cy="428.95035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-262.02914"
+                class="id_#baronessaPilli" cy="461.50394" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.010403" cx="133.20187"
+                class="id_#figlioCanzoneri" cy="512.1269" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="-224.55745"
+                class="id_#Pizzimenti" cy="782.74744" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-206.65358"
+                class="id_#doganiere" cy="500.8753" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="51.14546"
+                class="id_#vicere" cy="-304.24353" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.010906" cx="-264.66568"
+                class="id_#Franci" cy="600.63794" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.315306" cx="-455.375"
+                class="id_#IgnazioMessina" cy="249.56291" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.01278" cx="-458.598"
+                class="id_#notaioSerretta" cy="-389.5516" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="15.614515" cx="132.43106"
+                class="id_#Bagnara" cy="-116.248375" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-284.02744"
+                class="id_#ContrPietra" cy="-565.5531" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0234785" cx="308.10413"
+                class="id_#Calabria" cy="570.6646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.798612" cx="447.94736"
+                class="id_#Sicilia" cy="283.61877" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="-3128.3018"
+                class="id_#ContrGranaro" cy="-3410.6494" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="1128.8407"
+                class="id_#capoMarturano" cy="-4476.098" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="21.449547" cx="367.804"
+                class="id_#Palermo" cy="135.41434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.1932955" cx="1033.4667"
+                class="id_#RegnoNapoli" cy="-238.056" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.199484" cx="1094.2157"
+                class="id_#Francia" cy="-169.21544" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.03617" cx="716.45087"
+                class="id_#Messina" cy="509.15256" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.169119" cx="762.40936"
+                class="id_#Mediterraneo" cy="31.216383" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="12.839091" cx="917.9235"
+                class="id_#Napoli" cy="-176.6706" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1121.1256"
+                class="id_#Venezia" cy="147.61833" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.073359" cx="1093.7711"
+                class="id_#Livorno" cy="-52.122112" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1174.7502"
+                class="id_#Genova" cy="-370.8603" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1395.7389"
+                class="id_#chiesa" cy="-500.92786" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="20.12315" cx="-956.50555"
+                class="id_#cala" cy="190.58324" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-1348.9226"
+                class="id_#portaDoga" cy="197.44771" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.087477" cx="-970.66736"
+                class="id_#portaCalci" cy="-178.77766" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-1351.5614"
+                class="id_#portaCarbo" cy="113.13302" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-1298.2072"
+                class="id_#chiesa1" cy="54.946186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-1245.1262"
+                class="id_#chiesa2" cy="91.32406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-1258.4054"
+                class="id_#chiesa3" cy="221.2158" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-1301.3055"
+                class="id_#chiesa4" cy="137.59305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-1294.8417"
+                class="id_#chiesa5" cy="271.22845" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-870.36237"
+                class="id_#castello" cy="260.69055" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-1157.9758"
+                class="id_#lazzaretto" cy="160.64935" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="4434.8315"
+                class="id_#montePel" cy="-1610.7903" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-596.1558"
+                class="id_#chiesa6" cy="-319.16354" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-712.79114"
+                class="id_#chiesa7" cy="-544.19855" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="11.265183" cx="-625.9945"
+                class="id_#pianoSG" cy="10.394092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.046805" cx="368.8901"
+                class="id_#Peru" cy="-434.47296" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.068392" cx="293.91214"
+                class="id_#viaMaterassai" cy="9.595898" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="464.63458"
+                class="id_#castellammare" cy="-182.72406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.095769" cx="368.37375"
+                class="id_#palazzoSteri" cy="446.66492" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-534.0363"
+                class="id_#viaSSebastiano" cy="156.06381" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-852.2899"
+                class="id_#chiesaPiedi" cy="337.41537" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.06791" cx="-20.809633"
+                class="id_#Inghilterra" cy="435.44348" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.038999" cx="696.6452"
+                class="id_#Spagna" cy="-188.5507" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="304.36172"
+                class="id_#India" cy="-566.7255" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="237.26129"
+                class="id_#Cina" cy="-591.31946" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.056522" cx="645.60675"
+                class="id_#Tirreno" cy="-0.57429343" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="954.11255"
+                class="id_#Malta" cy="197.3752" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1110.5199"
+                class="id_#Turchia" cy="283.43173" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1086.114"
+                class="id_#Egitto" cy="210.8763" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1155.4061"
+                class="id_#Tunisi" cy="221.87057" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.008106" cx="-1200.7806"
+                class="id_#vicoloNeve" cy="-4963.1836" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="-1222.2474"
+                class="id_#viaAlloro" cy="-5051.655" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="-1176.2467"
+                class="id_#stradaZaga" cy="-4861.8477" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-496.27594"
+                class="id_#viaTavola" cy="692.9933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="521.0065"
+                class="id_#Marsiglia" cy="667.2848" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="0.410338"
+                class="id_#piazzaOliva" cy="-450.8751" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.016466" cx="-109.461784"
+                class="id_#Marsala" cy="-139.54955" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-41.38529"
+                class="id_#campagna" cy="-257.08716" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-975.8896"
+                class="id_#viaArgentieri" cy="-103.63467" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-175.62735"
+                class="id_#Mistretta" cy="-326.5553" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-437.1261"
+                class="id_#piazzaEligio" cy="575.6474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="64.32446"
+                class="id_#Leeds" cy="953.83594" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-439.5897"
+                class="id_#Londra" cy="739.72003" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="822.5478"
+                class="id_#Licata" cy="377.08997" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="814.33234"
+                class="id_#Canicatti" cy="308.0547" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="779.9366"
+                class="id_#Alcamo" cy="426.89557" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="765.50665"
+                class="id_#Girgenti" cy="354.908" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.007903" cx="-46.30909"
+                class="id_#casaBagnara" cy="-84.58385" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.002477" cx="-334.9995"
+                class="id_#scialle" cy="-93.7448" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-204.29768"
+                class="id_#fedenuziale" cy="-211.74454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="52.984222"
+                class="id_#schifazzoFB" cy="-192.04066" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.295717" cx="182.98088"
+                class="id_#putia" cy="267.94867" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="289.88422"
+                class="id_#casaPalermo1" cy="-17.061983" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.388554" cx="227.7953"
+                class="id_#cortice" cy="330.02298" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.262097" cx="354.056"
+                class="id_#magazzinoMaterassai" cy="-79.27683" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.062149" cx="570.86505"
+                class="id_#magazzinoSteri" cy="-53.958096" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.068762" cx="-135.15157"
+                class="id_#ufficioFlorio" cy="547.171" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.261808" cx="-292.6021"
+                class="id_#drogheria" cy="358.47998" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.002503" cx="440.33173"
+                class="id_#sommacco" cy="576.52454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-662.65686"
+                class="id_#zolfo" cy="923.4558" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-227.58304"
+                class="id_#tritacortice" cy="408.5227" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.078628" cx="277.9144"
+                class="id_#china" cy="-148.29355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-542.9519"
+                class="id_#Assunta" cy="472.62708" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-475.4543"
+                class="id_#tonnaraArenella" cy="422.12204" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+</svg>
