@@ -1,0 +1,3739 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <key attr.name="type" attr.type="string" for="node" id="type"/>
+    <key attr.name="Eccentricity" attr.type="double" for="node" id="eccentricity"/>
+    <key attr.name="Closeness Centrality" attr.type="double" for="node" id="closnesscentrality"/>
+    <key attr.name="Harmonic Closeness Centrality" attr.type="double" for="node" id="harmonicclosnesscentrality"/>
+    <key attr.name="Betweenness Centrality" attr.type="double" for="node" id="betweenesscentrality"/>
+    <key attr.name="Modularity Class" attr.type="int" for="node" id="modularity_class"/>
+    <graph edgedefault="undirected">
+        <node id="#Ignazio1">
+            <data key="label">Ignazio Florio</data>
+            <data key="type">person</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.6531531531531531</data>
+            <data key="harmonicclosnesscentrality">0.7436781609195402</data>
+            <data key="betweenesscentrality">3700.978603912422</data>
+            <data key="modularity_class">0</data>
+            <data key="size">40.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-26.704435</data>
+            <data key="y">-209.86444</data>
+        </node>
+        <node id="#nipoteIgn">
+            <data key="label">Vittoria</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.48172757475083056</data>
+            <data key="harmonicclosnesscentrality">0.5321839080459773</data>
+            <data key="betweenesscentrality">505.4762057387057</data>
+            <data key="modularity_class">4</data>
+            <data key="size">14.097372</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-83.44323</data>
+            <data key="y">17.165575</data>
+        </node>
+        <node id="#Paolo">
+            <data key="label">Paolo Florio</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.5576923076923077</data>
+            <data key="harmonicclosnesscentrality">0.6367816091954023</data>
+            <data key="betweenesscentrality">1741.1038678641628</data>
+            <data key="modularity_class">2</data>
+            <data key="size">24.113327</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">72.70108</data>
+            <data key="y">-43.951904</data>
+        </node>
+        <node id="#Vincenzo1">
+            <data key="label">Vincenzo Florio</data>
+            <data key="type">person</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.5967078189300411</data>
+            <data key="harmonicclosnesscentrality">0.6781609195402298</data>
+            <data key="betweenesscentrality">2372.052457999516</data>
+            <data key="modularity_class">1</data>
+            <data key="size">29.227774</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-77.05701</data>
+            <data key="y">-316.8561</data>
+        </node>
+        <node id="#mogliePaolo">
+            <data key="label">Giuseppina Saffiotti Florio</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.5</data>
+            <data key="harmonicclosnesscentrality">0.5655172413793105</data>
+            <data key="betweenesscentrality">732.1086330336335</data>
+            <data key="modularity_class">4</data>
+            <data key="size">15.934446</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-99.08618</data>
+            <data key="y">-87.08916</data>
+        </node>
+        <node id="#fratIgn">
+            <data key="label">Francesco</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3258426966292135</data>
+            <data key="harmonicclosnesscentrality">0.3418390804597706</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-188.70158</data>
+            <data key="y">513.48083</data>
+        </node>
+        <node id="#madreIgn1">
+            <data key="label">Rosa Bellantoni</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4227405247813411</data>
+            <data key="harmonicclosnesscentrality">0.451724137931035</data>
+            <data key="betweenesscentrality">3.0505050505050506</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.024727</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">448.18744</data>
+            <data key="y">-41.872868</data>
+        </node>
+        <node id="#madreGiuseppina">
+            <data key="label">Giovanna Saffiotti</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3589108910891089</data>
+            <data key="harmonicclosnesscentrality">0.37977011494252927</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">-71.08013</data>
+            <data key="y">492.9272</data>
+        </node>
+        <node id="#padreGiuseppina">
+            <data key="label">Vincenzo Saffiotti</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3589108910891089</data>
+            <data key="harmonicclosnesscentrality">0.37977011494252927</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">88.06759</data>
+            <data key="y">473.1809</data>
+        </node>
+        <node id="#bagnaroti">
+            <data key="label">bagnaroti</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.45454545454545453</data>
+            <data key="harmonicclosnesscentrality">0.48850574712643713</data>
+            <data key="betweenesscentrality">29.885389610389606</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.2422495</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-406.8962</data>
+            <data key="y">39.785904</data>
+        </node>
+        <node id="#MattiaBarbaro">
+            <data key="label">Mattia Florio Barbaro</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4559748427672956</data>
+            <data key="harmonicclosnesscentrality">0.4965517241379314</data>
+            <data key="betweenesscentrality">228.35512853159912</data>
+            <data key="modularity_class">4</data>
+            <data key="size">11.851039</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-207.2099</data>
+            <data key="y">-8.738947</data>
+        </node>
+        <node id="#PaoloBarbaro">
+            <data key="label">Paolo Barbaro</data>
+            <data key="type">person</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.48986486486486486</data>
+            <data key="harmonicclosnesscentrality">0.5252873563218393</data>
+            <data key="betweenesscentrality">145.983311459782</data>
+            <data key="modularity_class">4</data>
+            <data key="size">11.183335</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">87.87191</data>
+            <data key="y">-6.720863</data>
+        </node>
+        <node id="#figliaMattia">
+            <data key="label">Anna Barbaro</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.31385281385281383</data>
+            <data key="harmonicclosnesscentrality">0.3280459770114947</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-541.35956</data>
+            <data key="y">345.73648</data>
+        </node>
+        <node id="#RaffaeleBarbaro">
+            <data key="label">Raffaele Barbaro</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.3785900783289817</data>
+            <data key="harmonicclosnesscentrality">0.40172413793103506</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-340.7712</data>
+            <data key="y">-116.261765</data>
+        </node>
+        <node id="#Luigi16">
+            <data key="label">Luigi XVI di Borbone</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.338785046728972</data>
+            <data key="harmonicclosnesscentrality">0.3712643678160924</data>
+            <data key="betweenesscentrality">296.11310160427803</data>
+            <data key="modularity_class">10</data>
+            <data key="size">12.400282</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1411.1904</data>
+            <data key="y">221.47603</data>
+        </node>
+        <node id="#MariaAntonietta">
+            <data key="label">Maria Antonietta</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.2534965034965035</data>
+            <data key="harmonicclosnesscentrality">0.26735632183908037</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.0</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1655.9366</data>
+            <data key="y">264.7136</data>
+        </node>
+        <node id="#Ferdinando">
+            <data key="label">Ferdinando di Borbone-Due Sicilie</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.3419811320754717</data>
+            <data key="harmonicclosnesscentrality">0.36896551724137977</data>
+            <data key="betweenesscentrality">24.825000000000003</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.201231</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1227.0265</data>
+            <data key="y">124.16175</data>
+        </node>
+        <node id="#MariaCarolina">
+            <data key="label">Maria Carolina d'Asburgo-Lorena</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.2534965034965035</data>
+            <data key="harmonicclosnesscentrality">0.26735632183908037</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.0</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1637.798</data>
+            <data key="y">327.5036</data>
+        </node>
+        <node id="#inglesi">
+            <data key="label">gli inglesi</data>
+            <data key="type">person</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.48333333333333334</data>
+            <data key="harmonicclosnesscentrality">0.5436781609195404</data>
+            <data key="betweenesscentrality">1521.62611359229</data>
+            <data key="modularity_class">10</data>
+            <data key="size">22.334248</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">732.71484</data>
+            <data key="y">-165.5867</data>
+        </node>
+        <node id="#francesi">
+            <data key="label">i francesi</data>
+            <data key="type">person</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.453125</data>
+            <data key="harmonicclosnesscentrality">0.48620689655172455</data>
+            <data key="betweenesscentrality">55.06665417915419</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.446368</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">576.19824</data>
+            <data key="y">-526.0528</data>
+        </node>
+        <node id="#Emiddio">
+            <data key="label">Emiddio Barbaro</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4434250764525994</data>
+            <data key="harmonicclosnesscentrality">0.4839080459770118</data>
+            <data key="betweenesscentrality">393.14345238095245</data>
+            <data key="modularity_class">4</data>
+            <data key="size">13.186807</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-439.88107</data>
+            <data key="y">259.6076</data>
+        </node>
+        <node id="#mastroF">
+            <data key="label">mastro Filippo</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4084507042253521</data>
+            <data key="harmonicclosnesscentrality">0.4344827586206902</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-499.8652</data>
+            <data key="y">172.70662</data>
+        </node>
+        <node id="#Bottari">
+            <data key="label">Don Bottari</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4005524861878453</data>
+            <data key="harmonicclosnesscentrality">0.42643678160919607</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">5</data>
+            <data key="size">10.0</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">-36.039738</data>
+            <data key="y">-844.75385</data>
+        </node>
+        <node id="#Canzoneri">
+            <data key="label">Gnazì Canzoneri</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.44891640866873067</data>
+            <data key="harmonicclosnesscentrality">0.49080459770114987</data>
+            <data key="betweenesscentrality">52.78937312687315</data>
+            <data key="modularity_class">5</data>
+            <data key="size">10.427909</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">69.82511</data>
+            <data key="y">-597.05914</data>
+        </node>
+        <node id="#figliaCanzo">
+            <data key="label">figlia Canzoneri</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.31521739130434784</data>
+            <data key="harmonicclosnesscentrality">0.33264367816092</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">5</data>
+            <data key="size">10.0</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">-97.11506</data>
+            <data key="y">-1055.9249</data>
+        </node>
+        <node id="#Saguto">
+            <data key="label">Carmelo Saguto</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4588607594936709</data>
+            <data key="harmonicclosnesscentrality">0.51264367816092</data>
+            <data key="betweenesscentrality">230.46302725052715</data>
+            <data key="modularity_class">5</data>
+            <data key="size">11.868125</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">-41.645103</data>
+            <data key="y">-571.70917</data>
+        </node>
+        <node id="#Gulì">
+            <data key="label">Gulì</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4341317365269461</data>
+            <data key="harmonicclosnesscentrality">0.47126436781609243</data>
+            <data key="betweenesscentrality">25.46834733893557</data>
+            <data key="modularity_class">5</data>
+            <data key="size">10.206446</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">217.93274</data>
+            <data key="y">-772.59357</data>
+        </node>
+        <node id="#primacliente">
+            <data key="label">donna povera (cliente)</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.41076487252124644</data>
+            <data key="harmonicclosnesscentrality">0.43563218390804653</data>
+            <data key="betweenesscentrality">1.1404761904761904</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.009245</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">115.27874</data>
+            <data key="y">-711.7688</data>
+        </node>
+        <node id="#garzoneMichi">
+            <data key="label">Michele (garzone)</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4131054131054131</data>
+            <data key="harmonicclosnesscentrality">0.4402298850574718</data>
+            <data key="betweenesscentrality">0.49999999999999994</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.004053</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-250.36462</data>
+            <data key="y">31.012476</data>
+        </node>
+        <node id="#levatrice">
+            <data key="label">Mariuccia Colosimo</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.41076487252124644</data>
+            <data key="harmonicclosnesscentrality">0.4413793103448282</data>
+            <data key="betweenesscentrality">23.053454715219424</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.186871</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-276.8759</data>
+            <data key="y">142.36621</data>
+        </node>
+        <node id="#Curatolo">
+            <data key="label">Curatolo</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3589108910891089</data>
+            <data key="harmonicclosnesscentrality">0.37977011494252927</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">166.92636</data>
+            <data key="y">452.96228</data>
+        </node>
+        <node id="#barone">
+            <data key="label">barone (cliente)</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.38461538461538464</data>
+            <data key="harmonicclosnesscentrality">0.4103448275862074</data>
+            <data key="betweenesscentrality">9.138924963924962</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.0740795</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">509.86325</data>
+            <data key="y">324.11298</data>
+        </node>
+        <node id="#domesticaRosa">
+            <data key="label">Rosa (domestica)</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.33564814814814814</data>
+            <data key="harmonicclosnesscentrality">0.35793103448275904</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-320.82806</data>
+            <data key="y">412.1359</data>
+        </node>
+        <node id="#aristocratica">
+            <data key="label">aristocratica (cliente)</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.41076487252124644</data>
+            <data key="harmonicclosnesscentrality">0.43563218390804653</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-98.83418</data>
+            <data key="y">234.52477</data>
+        </node>
+        <node id="#napoletani">
+            <data key="label">i napoletani</data>
+            <data key="type">person</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.43154761904761907</data>
+            <data key="harmonicclosnesscentrality">0.4586206896551727</data>
+            <data key="betweenesscentrality">1.3140756302521006</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.010652</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">671.17896</data>
+            <data key="y">-318.8663</data>
+        </node>
+        <node id="#siciliani">
+            <data key="label">i siciliani</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.36989795918367346</data>
+            <data key="harmonicclosnesscentrality">0.3936781609195408</data>
+            <data key="betweenesscentrality">8.188385225885225</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.066375</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">656.02094</data>
+            <data key="y">-411.59177</data>
+        </node>
+        <node id="#Napoleone">
+            <data key="label">Napoleone</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.3815789473684211</data>
+            <data key="harmonicclosnesscentrality">0.41264367816092</data>
+            <data key="betweenesscentrality">36.40821343688989</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.295124</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">922.1091</data>
+            <data key="y">-79.26593</data>
+        </node>
+        <node id="#Ben">
+            <data key="label">Benjamin Ingham</data>
+            <data key="type">person</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.46474358974358976</data>
+            <data key="harmonicclosnesscentrality">0.5068965517241383</data>
+            <data key="betweenesscentrality">504.58719058719055</data>
+            <data key="modularity_class">1</data>
+            <data key="size">14.090166</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">39.059074</data>
+            <data key="y">-390.2075</data>
+        </node>
+        <node id="#Mauri">
+            <data key="label">Maurizio Reggio</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.44753086419753085</data>
+            <data key="harmonicclosnesscentrality">0.4873563218390809</data>
+            <data key="betweenesscentrality">72.71781584428643</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.589448</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-279.70703</data>
+            <data key="y">-274.819</data>
+        </node>
+        <node id="#Peppino">
+            <data key="label">Peppino</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4252199413489736</data>
+            <data key="harmonicclosnesscentrality">0.44942528735632237</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">-364.24857</data>
+            <data key="y">-386.47968</data>
+        </node>
+        <node id="#Mimmo">
+            <data key="label">Mimmo Russello</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.39944903581267216</data>
+            <data key="harmonicclosnesscentrality">0.4252873563218397</data>
+            <data key="betweenesscentrality">0.14285714285714285</data>
+            <data key="modularity_class">5</data>
+            <data key="size">10.001158</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">83.55691</data>
+            <data key="y">-819.6414</data>
+        </node>
+        <node id="#maestro">
+            <data key="label">Antonino Gagliano</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3589108910891089</data>
+            <data key="harmonicclosnesscentrality">0.37977011494252927</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">35.575706</data>
+            <data key="y">515.48035</data>
+        </node>
+        <node id="#Orsola">
+            <data key="label">Orsola (donna di servizio)</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.43283582089552236</data>
+            <data key="harmonicclosnesscentrality">0.4609195402298855</data>
+            <data key="betweenesscentrality">0.6</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.004864</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">162.29605</data>
+            <data key="y">279.26517</data>
+        </node>
+        <node id="#mastroSalvo">
+            <data key="label">mastro Salvatore (spedizionista)</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.39617486338797814</data>
+            <data key="harmonicclosnesscentrality">0.41724137931034544</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-591.81104</data>
+            <data key="y">-361.90845</data>
+        </node>
+        <node id="#Caruso">
+            <data key="label">cerusico Caruso</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.403899721448468</data>
+            <data key="harmonicclosnesscentrality">0.42758620689655225</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-505.69406</data>
+            <data key="y">-136.28876</data>
+        </node>
+        <node id="#notaio">
+            <data key="label">notaio Leone</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.39617486338797814</data>
+            <data key="harmonicclosnesscentrality">0.41724137931034544</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-279.7501</data>
+            <data key="y">306.31924</data>
+        </node>
+        <node id="#donSorce">
+            <data key="label">don Sorce</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.37467700258397935</data>
+            <data key="harmonicclosnesscentrality">0.39482758620689706</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-545.60095</data>
+            <data key="y">-634.2821</data>
+        </node>
+        <node id="#GiuseppeBarbaro">
+            <data key="label">Giuseppe Barbaro</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3078556263269639</data>
+            <data key="harmonicclosnesscentrality">0.32229885057471297</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-882.62915</data>
+            <data key="y">741.855</data>
+        </node>
+        <node id="#VincenzoRomano">
+            <data key="label">Vincenzo Romano</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4005524861878453</data>
+            <data key="harmonicclosnesscentrality">0.42873563218390864</data>
+            <data key="betweenesscentrality">0.34285714285714286</data>
+            <data key="modularity_class">5</data>
+            <data key="size">10.002779</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">332.8955</data>
+            <data key="y">-734.39777</data>
+        </node>
+        <node id="#pittore">
+            <data key="label">Salvatore Burgarello</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.39617486338797814</data>
+            <data key="harmonicclosnesscentrality">0.41724137931034544</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-599.8074</data>
+            <data key="y">-293.65637</data>
+        </node>
+        <node id="#clienteMarghe">
+            <data key="label">Margherita Conticello</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.37467700258397935</data>
+            <data key="harmonicclosnesscentrality">0.39482758620689706</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-388.07626</data>
+            <data key="y">-524.6865</data>
+        </node>
+        <node id="#VincenzoMazza">
+            <data key="label">Vincenzo Mazza</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.39617486338797814</data>
+            <data key="harmonicclosnesscentrality">0.41724137931034544</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">174.39735</data>
+            <data key="y">-417.32306</data>
+        </node>
+        <node id="#Gibbs">
+            <data key="label">Abraham Gibbs</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.42028985507246375</data>
+            <data key="harmonicclosnesscentrality">0.44482758620689694</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">515.9976</data>
+            <data key="y">-407.15414</data>
+        </node>
+        <node id="#Woodhouse">
+            <data key="label">John Woodhouse</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.31798245614035087</data>
+            <data key="harmonicclosnesscentrality">0.33218390804597747</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">232.37494</data>
+            <data key="y">-909.86163</data>
+        </node>
+        <node id="#Hopps">
+            <data key="label">James Hopps</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.31798245614035087</data>
+            <data key="harmonicclosnesscentrality">0.33218390804597747</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">153.14803</data>
+            <data key="y">-931.75366</data>
+        </node>
+        <node id="#Olimpia">
+            <data key="label">Olimpia</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4190751445086705</data>
+            <data key="harmonicclosnesscentrality">0.44482758620689716</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-358.56122</data>
+            <data key="y">-149.49837</data>
+        </node>
+        <node id="#Leone">
+            <data key="label">Salvatore Leone</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.35802469135802467</data>
+            <data key="harmonicclosnesscentrality">0.377011494252874</data>
+            <data key="betweenesscentrality">1.6353535353535353</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.013256</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">347.0712</data>
+            <data key="y">301.7649</data>
+        </node>
+        <node id="#Whitaker">
+            <data key="label">Joseph Whitaker</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.40166204986149584</data>
+            <data key="harmonicclosnesscentrality">0.4252873563218397</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">198.63551</data>
+            <data key="y">-647.32904</data>
+        </node>
+        <node id="#GiuseppePa">
+            <data key="label">Giuseppe Pajno</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4380664652567976</data>
+            <data key="harmonicclosnesscentrality">0.4724137931034488</data>
+            <data key="betweenesscentrality">157.3472083472083</data>
+            <data key="modularity_class">5</data>
+            <data key="size">11.275451</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">-137.73837</data>
+            <data key="y">-677.5685</data>
+        </node>
+        <node id="#PietroSpo">
+            <data key="label">Pietro Spoliti</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4084507042253521</data>
+            <data key="harmonicclosnesscentrality">0.4344827586206902</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-191.26512</data>
+            <data key="y">164.53476</data>
+        </node>
+        <node id="#Gu">
+            <data key="label">Guglielmo Li Vigni</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.38461538461538464</data>
+            <data key="harmonicclosnesscentrality">0.41551724137931095</data>
+            <data key="betweenesscentrality">1.5499999999999998</data>
+            <data key="modularity_class">5</data>
+            <data key="size">10.012565</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">-211.09044</data>
+            <data key="y">-932.92975</data>
+        </node>
+        <node id="#Nic">
+            <data key="label">Niccolò Raffo</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.30526315789473685</data>
+            <data key="harmonicclosnesscentrality">0.3182758620689659</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">5</data>
+            <data key="size">10.0</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">-294.15836</data>
+            <data key="y">-1085.7515</data>
+        </node>
+        <node id="#Marianna">
+            <data key="label">Marianna (cuoca)</data>
+            <data key="type">person</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.33410138248847926</data>
+            <data key="harmonicclosnesscentrality">0.3533333333333337</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-491.7284</data>
+            <data key="y">667.5666</data>
+        </node>
+        <node id="#Isa">
+            <data key="label">Isabella Pillitteri</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4289940828402367</data>
+            <data key="harmonicclosnesscentrality">0.4632183908045982</data>
+            <data key="betweenesscentrality">28.68968253968254</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.232557</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-204.81676</data>
+            <data key="y">-428.95035</data>
+        </node>
+        <node id="#baronessaPilli">
+            <data key="label">baronessa Pillitteri</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.3756476683937824</data>
+            <data key="harmonicclosnesscentrality">0.39827586206896604</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-262.02914</data>
+            <data key="y">-461.50394</data>
+        </node>
+        <node id="#figlioCanzoneri">
+            <data key="label">Venanzio Canzoneri</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4420731707317073</data>
+            <data key="harmonicclosnesscentrality">0.473563218390805</data>
+            <data key="betweenesscentrality">1.2833333333333334</data>
+            <data key="modularity_class">5</data>
+            <data key="size">10.010403</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">133.20187</data>
+            <data key="y">-512.1269</data>
+        </node>
+        <node id="#Pizzimenti">
+            <data key="label">Gaspare Pizzimenti</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.39944903581267216</data>
+            <data key="harmonicclosnesscentrality">0.42298850574712704</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">5</data>
+            <data key="size">10.0</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">-224.55745</data>
+            <data key="y">-782.74744</data>
+        </node>
+        <node id="#doganiere">
+            <data key="label">doganiere</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.3805774278215223</data>
+            <data key="harmonicclosnesscentrality">0.40402298850574775</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-206.65358</data>
+            <data key="y">-500.8753</data>
+        </node>
+        <node id="#vicere">
+            <data key="label">Pietro Ugo delle Favare</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.3972602739726027</data>
+            <data key="harmonicclosnesscentrality">0.42068965517241436</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">51.14546</data>
+            <data key="y">304.24353</data>
+        </node>
+        <node id="#Franci">
+            <data key="label">Francesco (capo dei commessi)</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4166666666666667</data>
+            <data key="harmonicclosnesscentrality">0.4471264367816096</data>
+            <data key="betweenesscentrality">1.3455128205128206</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.010906</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-264.66568</data>
+            <data key="y">-600.63794</data>
+        </node>
+        <node id="#IgnazioMessina">
+            <data key="label">Ignazio Messina</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4289940828402367</data>
+            <data key="harmonicclosnesscentrality">0.46551724137931083</data>
+            <data key="betweenesscentrality">38.89796086266674</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.315306</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-455.375</data>
+            <data key="y">-249.56291</data>
+        </node>
+        <node id="#notaioSerretta">
+            <data key="label">notaio Serretta</data>
+            <data key="type">person</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.33410138248847926</data>
+            <data key="harmonicclosnesscentrality">0.3580459770114946</data>
+            <data key="betweenesscentrality">1.5766233766233768</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.01278</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-458.598</data>
+            <data key="y">389.5516</data>
+        </node>
+        <node id="#Bagnara">
+            <data key="label">Bagnara Calabra</data>
+            <data key="type">place</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.48172757475083056</data>
+            <data key="harmonicclosnesscentrality">0.5310344827586206</data>
+            <data key="betweenesscentrality">692.639982648071</data>
+            <data key="modularity_class">4</data>
+            <data key="size">15.614515</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">132.43106</data>
+            <data key="y">116.248375</data>
+        </node>
+        <node id="#ContrPietra">
+            <data key="label">Contrada Pietraliscia</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3403755868544601</data>
+            <data key="harmonicclosnesscentrality">0.3648275862068969</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-284.02744</data>
+            <data key="y">565.5531</data>
+        </node>
+        <node id="#Calabria">
+            <data key="label">Calabria</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4289940828402367</data>
+            <data key="harmonicclosnesscentrality">0.45747126436781654</data>
+            <data key="betweenesscentrality">2.896428571428573</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0234785</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">308.10413</data>
+            <data key="y">-570.6646</data>
+        </node>
+        <node id="#Sicilia">
+            <data key="label">Sicilia</data>
+            <data key="type">place</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.4723127035830619</data>
+            <data key="harmonicclosnesscentrality">0.5057471264367819</data>
+            <data key="betweenesscentrality">98.52151565754505</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.798612</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">447.94736</data>
+            <data key="y">-283.61877</data>
+        </node>
+        <node id="#ContrGranaro">
+            <data key="label">Contrada Granaro</data>
+            <data key="type">place</data>
+            <data key="eccentricity">0.0</data>
+            <data key="closnesscentrality">0.0</data>
+            <data key="harmonicclosnesscentrality">0.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">6</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">-3128.3018</data>
+            <data key="y">3410.6494</data>
+        </node>
+        <node id="#capoMarturano">
+            <data key="label">Capo Marturano</data>
+            <data key="type">place</data>
+            <data key="eccentricity">0.0</data>
+            <data key="closnesscentrality">0.0</data>
+            <data key="harmonicclosnesscentrality">0.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">7</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">1128.8407</data>
+            <data key="y">4476.098</data>
+        </node>
+        <node id="#Palermo">
+            <data key="label">Palermo</data>
+            <data key="type">place</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.5451127819548872</data>
+            <data key="harmonicclosnesscentrality">0.6034482758620688</data>
+            <data key="betweenesscentrality">1412.4842255783433</data>
+            <data key="modularity_class">8</data>
+            <data key="size">21.449547</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">367.804</data>
+            <data key="y">-135.41434</data>
+        </node>
+        <node id="#RegnoNapoli">
+            <data key="label">Regno di Napoli</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.34441805225653205</data>
+            <data key="harmonicclosnesscentrality">0.3655172413793109</data>
+            <data key="betweenesscentrality">23.84602284969932</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.1932955</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1033.4667</data>
+            <data key="y">238.056</data>
+        </node>
+        <node id="#Francia">
+            <data key="label">Francia</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.35802469135802467</data>
+            <data key="harmonicclosnesscentrality">0.38218390804597746</data>
+            <data key="betweenesscentrality">24.609517688194163</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.199484</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1094.2157</data>
+            <data key="y">169.21544</data>
+        </node>
+        <node id="#Messina">
+            <data key="label">Messina</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3634085213032581</data>
+            <data key="harmonicclosnesscentrality">0.39011494252873613</data>
+            <data key="betweenesscentrality">4.462092482680717</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.03617</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">716.45087</data>
+            <data key="y">-509.15256</data>
+        </node>
+        <node id="#Mediterraneo">
+            <data key="label">Mar Mediterraneo</data>
+            <data key="type">place</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.43154761904761907</data>
+            <data key="harmonicclosnesscentrality">0.4563218390804601</data>
+            <data key="betweenesscentrality">20.863528138528153</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.169119</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">762.40936</data>
+            <data key="y">-31.216383</data>
+        </node>
+        <node id="#Napoli">
+            <data key="label">Napoli</data>
+            <data key="type">place</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.39944903581267216</data>
+            <data key="harmonicclosnesscentrality">0.4298850574712648</data>
+            <data key="betweenesscentrality">350.2471508883275</data>
+            <data key="modularity_class">10</data>
+            <data key="size">12.839091</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">917.9235</data>
+            <data key="y">176.6706</data>
+        </node>
+        <node id="#Venezia">
+            <data key="label">Venezia</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.32657657657657657</data>
+            <data key="harmonicclosnesscentrality">0.3448275862068969</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.0</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1121.1256</data>
+            <data key="y">-147.61833</data>
+        </node>
+        <node id="#Livorno">
+            <data key="label">Livorno</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.337995337995338</data>
+            <data key="harmonicclosnesscentrality">0.3586206896551728</data>
+            <data key="betweenesscentrality">9.05</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.073359</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1093.7711</data>
+            <data key="y">52.122112</data>
+        </node>
+        <node id="#Genova">
+            <data key="label">Genova</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.2859960552268245</data>
+            <data key="harmonicclosnesscentrality">0.2982758620689657</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.0</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1174.7502</data>
+            <data key="y">370.8603</data>
+        </node>
+        <node id="#chiesa">
+            <data key="label">chiesa di Sant'Andrea degli Amalfitani</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.2859960552268245</data>
+            <data key="harmonicclosnesscentrality">0.2982758620689657</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.0</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1395.7389</data>
+            <data key="y">500.92786</data>
+        </node>
+        <node id="#cala">
+            <data key="label">Cala di Palermo</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.46774193548387094</data>
+            <data key="harmonicclosnesscentrality">0.5149425287356324</data>
+            <data key="betweenesscentrality">1248.8518578643573</data>
+            <data key="modularity_class">3</data>
+            <data key="size">20.12315</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-956.50555</data>
+            <data key="y">-190.58324</data>
+        </node>
+        <node id="#portaDoga">
+            <data key="label">porta Doganella</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.31938325991189426</data>
+            <data key="harmonicclosnesscentrality">0.3349425287356326</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-1348.9226</data>
+            <data key="y">-197.44771</data>
+        </node>
+        <node id="#portaCalci">
+            <data key="label">porta Calcina</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.337995337995338</data>
+            <data key="harmonicclosnesscentrality">0.35735632183908095</data>
+            <data key="betweenesscentrality">10.791666666666666</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.087477</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-970.66736</data>
+            <data key="y">178.77766</data>
+        </node>
+        <node id="#portaCarbo">
+            <data key="label">porta Carbone</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.31938325991189426</data>
+            <data key="harmonicclosnesscentrality">0.3349425287356326</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-1351.5614</data>
+            <data key="y">-113.13302</data>
+        </node>
+        <node id="#chiesa1">
+            <data key="label">chiesa di Santa Maria di Porto Salvo</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.31938325991189426</data>
+            <data key="harmonicclosnesscentrality">0.3349425287356326</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-1298.2072</data>
+            <data key="y">-54.946186</data>
+        </node>
+        <node id="#chiesa2">
+            <data key="label">chiesa di San Mamiliano</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.31938325991189426</data>
+            <data key="harmonicclosnesscentrality">0.3349425287356326</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-1245.1262</data>
+            <data key="y">-91.32406</data>
+        </node>
+        <node id="#chiesa3">
+            <data key="label">chiesa dell'Annunziata</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.31938325991189426</data>
+            <data key="harmonicclosnesscentrality">0.3349425287356326</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-1258.4054</data>
+            <data key="y">-221.2158</data>
+        </node>
+        <node id="#chiesa4">
+            <data key="label">chiesa di San Giorgio dei Genovesi</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.31938325991189426</data>
+            <data key="harmonicclosnesscentrality">0.3349425287356326</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-1301.3055</data>
+            <data key="y">-137.59305</data>
+        </node>
+        <node id="#chiesa5">
+            <data key="label">chiesa di Santa Maria di Piedigrotta</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.31938325991189426</data>
+            <data key="harmonicclosnesscentrality">0.3349425287356326</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-1294.8417</data>
+            <data key="y">-271.22845</data>
+        </node>
+        <node id="#castello">
+            <data key="label">Castello a Mare</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.38666666666666666</data>
+            <data key="harmonicclosnesscentrality">0.4103448275862073</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-870.36237</data>
+            <data key="y">-260.69055</data>
+        </node>
+        <node id="#lazzaretto">
+            <data key="label">Lazzaretto</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.31938325991189426</data>
+            <data key="harmonicclosnesscentrality">0.3349425287356326</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-1157.9758</data>
+            <data key="y">-160.64935</data>
+        </node>
+        <node id="#montePel">
+            <data key="label">monte Pellegrino</data>
+            <data key="type">place</data>
+            <data key="eccentricity">0.0</data>
+            <data key="closnesscentrality">0.0</data>
+            <data key="harmonicclosnesscentrality">0.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">9</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">4434.8315</data>
+            <data key="y">1610.7903</data>
+        </node>
+        <node id="#chiesa6">
+            <data key="label">chiesa di Santa Maria la Nova</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3372093023255814</data>
+            <data key="harmonicclosnesscentrality">0.36022988505747167</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-596.1558</data>
+            <data key="y">319.16354</data>
+        </node>
+        <node id="#chiesa7">
+            <data key="label">chiesa di San Giacomo</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3078556263269639</data>
+            <data key="harmonicclosnesscentrality">0.32229885057471297</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-712.79114</data>
+            <data key="y">544.19855</data>
+        </node>
+        <node id="#pianoSG">
+            <data key="label">piano San Giacomo</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4367469879518072</data>
+            <data key="harmonicclosnesscentrality">0.4689655172413796</data>
+            <data key="betweenesscentrality">156.08055555555555</data>
+            <data key="modularity_class">3</data>
+            <data key="size">11.265183</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-625.9945</data>
+            <data key="y">-10.394092</data>
+        </node>
+        <node id="#Peru">
+            <data key="label">Perù</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.3717948717948718</data>
+            <data key="harmonicclosnesscentrality">0.398275862068966</data>
+            <data key="betweenesscentrality">5.7741452991453</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.046805</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">368.8901</data>
+            <data key="y">434.47296</data>
+        </node>
+        <node id="#viaMaterassai">
+            <data key="label">via dei Materassai</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4420731707317073</data>
+            <data key="harmonicclosnesscentrality">0.473563218390805</data>
+            <data key="betweenesscentrality">8.437232620320852</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.068392</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">293.91214</data>
+            <data key="y">-9.595898</data>
+        </node>
+        <node id="#castellammare">
+            <data key="label">mandamento di Castellammare</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.42151162790697677</data>
+            <data key="harmonicclosnesscentrality">0.4482758620689661</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">464.63458</data>
+            <data key="y">182.72406</data>
+        </node>
+        <node id="#palazzoSteri">
+            <data key="label">Palazzo Steri</data>
+            <data key="type">place</data>
+            <data key="eccentricity">3.0</data>
+            <data key="closnesscentrality">0.44753086419753085</data>
+            <data key="harmonicclosnesscentrality">0.47241379310344866</data>
+            <data key="betweenesscentrality">11.814568764568765</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.095769</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">368.37375</data>
+            <data key="y">-446.66492</data>
+        </node>
+        <node id="#viaSSebastiano">
+            <data key="label">via San Sebastiano</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4166666666666667</data>
+            <data key="harmonicclosnesscentrality">0.4425287356321844</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-534.0363</data>
+            <data key="y">-156.06381</data>
+        </node>
+        <node id="#chiesaPiedi">
+            <data key="label">chiesa di Piedigrotta</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.38666666666666666</data>
+            <data key="harmonicclosnesscentrality">0.4103448275862073</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-852.2899</data>
+            <data key="y">-337.41537</data>
+        </node>
+        <node id="#Inghilterra">
+            <data key="label">Inghilterra</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4341317365269461</data>
+            <data key="harmonicclosnesscentrality">0.46321839080459803</data>
+            <data key="betweenesscentrality">8.377777777777778</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.06791</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-20.809633</data>
+            <data key="y">-435.44348</data>
+        </node>
+        <node id="#Spagna">
+            <data key="label">Spagna</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.3553921568627451</data>
+            <data key="harmonicclosnesscentrality">0.3764367816091958</data>
+            <data key="betweenesscentrality">4.811071281659517</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.038999</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">696.6452</data>
+            <data key="y">188.5507</data>
+        </node>
+        <node id="#India">
+            <data key="label">India</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.3258426966292135</data>
+            <data key="harmonicclosnesscentrality">0.341379310344828</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">304.36172</data>
+            <data key="y">566.7255</data>
+        </node>
+        <node id="#Cina">
+            <data key="label">Cina</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.3258426966292135</data>
+            <data key="harmonicclosnesscentrality">0.341379310344828</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">237.26129</data>
+            <data key="y">591.31946</data>
+        </node>
+        <node id="#Tirreno">
+            <data key="label">Mar Tirreno</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.3553921568627451</data>
+            <data key="harmonicclosnesscentrality">0.377011494252874</data>
+            <data key="betweenesscentrality">6.972939560439559</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.056522</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">645.60675</data>
+            <data key="y">0.57429343</data>
+        </node>
+        <node id="#Malta">
+            <data key="label">Malta</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.32657657657657657</data>
+            <data key="harmonicclosnesscentrality">0.3448275862068969</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.0</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">954.11255</data>
+            <data key="y">-197.3752</data>
+        </node>
+        <node id="#Turchia">
+            <data key="label">Turchia</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.32657657657657657</data>
+            <data key="harmonicclosnesscentrality">0.3448275862068969</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.0</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1110.5199</data>
+            <data key="y">-283.43173</data>
+        </node>
+        <node id="#Egitto">
+            <data key="label">Egitto</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.32657657657657657</data>
+            <data key="harmonicclosnesscentrality">0.3448275862068969</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.0</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1086.114</data>
+            <data key="y">-210.8763</data>
+        </node>
+        <node id="#Tunisi">
+            <data key="label">Tunisi</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.32657657657657657</data>
+            <data key="harmonicclosnesscentrality">0.3448275862068969</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">10</data>
+            <data key="size">10.0</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">1155.4061</data>
+            <data key="y">-221.87057</data>
+        </node>
+        <node id="#vicoloNeve">
+            <data key="label">vicolo della Neve</data>
+            <data key="type">place</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">1.0</data>
+            <data key="modularity_class">11</data>
+            <data key="size">10.008106</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">-1200.7806</data>
+            <data key="y">4963.1836</data>
+        </node>
+        <node id="#viaAlloro">
+            <data key="label">via dell'Alloro</data>
+            <data key="type">place</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.6666666666666666</data>
+            <data key="harmonicclosnesscentrality">0.75</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">11</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">-1222.2474</data>
+            <data key="y">5051.655</data>
+        </node>
+        <node id="#stradaZaga">
+            <data key="label">strada dei Zagarellai</data>
+            <data key="type">place</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.6666666666666666</data>
+            <data key="harmonicclosnesscentrality">0.75</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">11</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">-1176.2467</data>
+            <data key="y">4861.8477</data>
+        </node>
+        <node id="#viaTavola">
+            <data key="label">via della Tavola Tonda</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.37467700258397935</data>
+            <data key="harmonicclosnesscentrality">0.39482758620689706</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-496.27594</data>
+            <data key="y">-692.9933</data>
+        </node>
+        <node id="#Marsiglia">
+            <data key="label">Marsiglia</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.37662337662337664</data>
+            <data key="harmonicclosnesscentrality">0.39942528735632243</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">521.0065</data>
+            <data key="y">-667.2848</data>
+        </node>
+        <node id="#piazzaOliva">
+            <data key="label">piazza Sant'Oliva</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3589108910891089</data>
+            <data key="harmonicclosnesscentrality">0.37977011494252927</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">0.410338</data>
+            <data key="y">450.8751</data>
+        </node>
+        <node id="#Marsala">
+            <data key="label">Marsala</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4142857142857143</data>
+            <data key="harmonicclosnesscentrality">0.4390804597701155</data>
+            <data key="betweenesscentrality">2.0313492063492067</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.016466</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">-109.461784</data>
+            <data key="y">139.54955</data>
+        </node>
+        <node id="#campagna">
+            <data key="label">campagna</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.37275064267352187</data>
+            <data key="harmonicclosnesscentrality">0.39931034482758676</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-41.38529</data>
+            <data key="y">257.08716</data>
+        </node>
+        <node id="#viaArgentieri">
+            <data key="label">via degli Argentieri</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.30462184873949577</data>
+            <data key="harmonicclosnesscentrality">0.3171264367816094</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-975.8896</data>
+            <data key="y">103.63467</data>
+        </node>
+        <node id="#Mistretta">
+            <data key="label">Mistretta</data>
+            <data key="type">place</data>
+            <data key="eccentricity">5.0</data>
+            <data key="closnesscentrality">0.3258426966292135</data>
+            <data key="harmonicclosnesscentrality">0.3418390804597706</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-175.62735</data>
+            <data key="y">326.5553</data>
+        </node>
+        <node id="#piazzaEligio">
+            <data key="label">piazzetta di Sant'Eligio</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4119318181818182</data>
+            <data key="harmonicclosnesscentrality">0.4379310344827592</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-437.1261</data>
+            <data key="y">-575.6474</data>
+        </node>
+        <node id="#Leeds">
+            <data key="label">Leeds</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.31798245614035087</data>
+            <data key="harmonicclosnesscentrality">0.33218390804597747</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">64.32446</data>
+            <data key="y">-953.83594</data>
+        </node>
+        <node id="#Londra">
+            <data key="label">Londra</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.37467700258397935</data>
+            <data key="harmonicclosnesscentrality">0.39482758620689706</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-439.5897</data>
+            <data key="y">-739.72003</data>
+        </node>
+        <node id="#Licata">
+            <data key="label">Licata</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.35365853658536583</data>
+            <data key="harmonicclosnesscentrality">0.36954022988505797</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">822.5478</data>
+            <data key="y">-377.08997</data>
+        </node>
+        <node id="#Canicatti">
+            <data key="label">Canicattì</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.35365853658536583</data>
+            <data key="harmonicclosnesscentrality">0.36954022988505797</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">814.33234</data>
+            <data key="y">-308.0547</data>
+        </node>
+        <node id="#Alcamo">
+            <data key="label">Alcamo</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.35365853658536583</data>
+            <data key="harmonicclosnesscentrality">0.36954022988505797</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">779.9366</data>
+            <data key="y">-426.89557</data>
+        </node>
+        <node id="#Girgenti">
+            <data key="label">Girgenti</data>
+            <data key="type">place</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.35365853658536583</data>
+            <data key="harmonicclosnesscentrality">0.36954022988505797</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">765.50665</data>
+            <data key="y">-354.908</data>
+        </node>
+        <node id="#casaBagnara">
+            <data key="label">casa Florio Bagnara</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4420731707317073</data>
+            <data key="harmonicclosnesscentrality">0.473563218390805</data>
+            <data key="betweenesscentrality">0.9750000000000001</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.007903</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-46.30909</data>
+            <data key="y">84.58385</data>
+        </node>
+        <node id="#scialle">
+            <data key="label">Scialle di Giuseppina</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4096045197740113</data>
+            <data key="harmonicclosnesscentrality">0.43793103448275916</data>
+            <data key="betweenesscentrality">0.3055555555555555</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.002477</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">-334.9995</data>
+            <data key="y">93.7448</data>
+        </node>
+        <node id="#fedenuziale">
+            <data key="label">fede nuziale di Rosa Bellantoni</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4096045197740113</data>
+            <data key="harmonicclosnesscentrality">0.43218390804597756</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">-204.29768</data>
+            <data key="y">211.74454</data>
+        </node>
+        <node id="#schifazzoFB">
+            <data key="label">San Francesco di Paola</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4119318181818182</data>
+            <data key="harmonicclosnesscentrality">0.4367816091954029</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">52.984222</data>
+            <data key="y">192.04066</data>
+        </node>
+        <node id="#putia">
+            <data key="label">Aromateria</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4517133956386293</data>
+            <data key="harmonicclosnesscentrality">0.49770114942528787</data>
+            <data key="betweenesscentrality">36.481441597618065</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.295717</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">182.98088</data>
+            <data key="y">-267.94867</data>
+        </node>
+        <node id="#casaPalermo1">
+            <data key="label">casa Florio-via dei Materassai(Palermo)</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4264705882352941</data>
+            <data key="harmonicclosnesscentrality">0.45287356321839134</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">289.88422</data>
+            <data key="y">17.061983</data>
+        </node>
+        <node id="#cortice">
+            <data key="label">cortice</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4447852760736196</data>
+            <data key="harmonicclosnesscentrality">0.4781609195402303</data>
+            <data key="betweenesscentrality">47.934328171828156</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.388554</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">227.7953</data>
+            <data key="y">-330.02298</data>
+        </node>
+        <node id="#magazzinoMaterassai">
+            <data key="label">magazzino via dei Materassai</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.43026706231454004</data>
+            <data key="harmonicclosnesscentrality">0.4586206896551729</data>
+            <data key="betweenesscentrality">32.33384695369989</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.262097</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">354.056</data>
+            <data key="y">79.27683</data>
+        </node>
+        <node id="#magazzinoSteri">
+            <data key="label">magazzino palazzo Steri</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.3460620525059666</data>
+            <data key="harmonicclosnesscentrality">0.3712643678160923</data>
+            <data key="betweenesscentrality">7.667099567099566</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.062149</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">570.86505</data>
+            <data key="y">53.958096</data>
+        </node>
+        <node id="#ufficioFlorio">
+            <data key="label">ufficio commerciale dei Florio</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4277286135693215</data>
+            <data key="harmonicclosnesscentrality">0.4563218390804603</data>
+            <data key="betweenesscentrality">8.482886557886555</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.068762</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-135.15157</data>
+            <data key="y">-547.171</data>
+        </node>
+        <node id="#drogheria">
+            <data key="label">drogheria Florio</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4227405247813411</data>
+            <data key="harmonicclosnesscentrality">0.45747126436781665</data>
+            <data key="betweenesscentrality">32.29829059829059</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.261808</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-292.6021</data>
+            <data key="y">-358.47998</data>
+        </node>
+        <node id="#sommacco">
+            <data key="label">sommacco</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4154727793696275</data>
+            <data key="harmonicclosnesscentrality">0.44367816091954076</data>
+            <data key="betweenesscentrality">0.3088235294117647</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.002503</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">440.33173</data>
+            <data key="y">-576.52454</data>
+        </node>
+        <node id="#zolfo">
+            <data key="label">zolfo</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.37467700258397935</data>
+            <data key="harmonicclosnesscentrality">0.39482758620689706</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-662.65686</data>
+            <data key="y">-923.4558</data>
+        </node>
+        <node id="#tritacortice">
+            <data key="label">macchina trita cortice</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.41076487252124644</data>
+            <data key="harmonicclosnesscentrality">0.43448275862069025</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-227.58304</data>
+            <data key="y">-408.5227</data>
+        </node>
+        <node id="#china">
+            <data key="label">china in polvere</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4264705882352941</data>
+            <data key="harmonicclosnesscentrality">0.45287356321839134</data>
+            <data key="betweenesscentrality">9.700000000000001</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.078628</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">277.9144</data>
+            <data key="y">148.29355</data>
+        </node>
+        <node id="#Assunta">
+            <data key="label">schooner "Assunta"</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.39617486338797814</data>
+            <data key="harmonicclosnesscentrality">0.41724137931034544</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-542.9519</data>
+            <data key="y">-472.62708</data>
+        </node>
+        <node id="#tonnaraArenella">
+            <data key="label">tonnara dell'Arenella</data>
+            <data key="type">property</data>
+            <data key="eccentricity">4.0</data>
+            <data key="closnesscentrality">0.4131054131054131</data>
+            <data key="harmonicclosnesscentrality">0.4390804597701155</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-475.4543</data>
+            <data key="y">-422.12204</data>
+        </node>
+        <edge id="0" source="#Bagnara" target="#Bagnara">
+            <data key="weight">10.0</data>
+        </edge>
+        <edge id="1" source="#ContrPietra" target="#ContrPietra">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2" source="#Ignazio1" target="#Ignazio1">
+            <data key="weight">350.0</data>
+        </edge>
+        <edge id="3" source="#nipoteIgn" target="#nipoteIgn">
+            <data key="weight">45.0</data>
+        </edge>
+        <edge id="4" source="#casaBagnara" target="#casaBagnara">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="6" source="#Ignazio1" target="#nipoteIgn">
+            <data key="weight">23.0</data>
+        </edge>
+        <edge id="7" source="#Paolo" target="#Paolo">
+            <data key="weight">157.0</data>
+        </edge>
+        <edge id="8" source="#Paolo" target="#Vincenzo1">
+            <data key="weight">27.0</data>
+        </edge>
+        <edge id="12" source="#Paolo" target="#mogliePaolo">
+            <data key="weight">62.0</data>
+        </edge>
+        <edge id="14" source="#scialle" target="#scialle">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="16" source="#Ignazio1" target="#Paolo">
+            <data key="weight">73.0</data>
+        </edge>
+        <edge id="24" source="#mogliePaolo" target="#mogliePaolo">
+            <data key="weight">180.0</data>
+        </edge>
+        <edge id="28" source="#Vincenzo1" target="#Vincenzo1">
+            <data key="weight">203.0</data>
+        </edge>
+        <edge id="30" source="#mogliePaolo" target="#nipoteIgn">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="32" source="#mogliePaolo" target="#Ignazio1">
+            <data key="weight">90.0</data>
+        </edge>
+        <edge id="39" source="#nipoteIgn" target="#fratIgn">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="40" source="#nipoteIgn" target="#Paolo">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="56" source="#Paolo" target="#casaBagnara">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="64" source="#mogliePaolo" target="#casaBagnara">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="65" source="#fedenuziale" target="#fedenuziale">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="67" source="#mogliePaolo" target="#scialle">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="71" source="#Ignazio1" target="#scialle">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="83" source="#mogliePaolo" target="#Vincenzo1">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="85" source="#Ignazio1" target="#casaBagnara">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="86" source="#madreIgn1" target="#madreIgn1">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="88" source="#madreIgn1" target="#Ignazio1">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="90" source="#madreIgn1" target="#Bagnara">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="91" source="#madreIgn1" target="#Calabria">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="92" source="#madreIgn1" target="#Sicilia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="99" source="#Paolo" target="#madreGiuseppina">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="100" source="#Paolo" target="#padreGiuseppina">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="101" source="#Paolo" target="#madreIgn1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="102" source="#Paolo" target="#bagnaroti">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="110" source="#Ignazio1" target="#Bagnara">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="118" source="#ContrGranaro" target="#ContrGranaro">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="119" source="#PaoloBarbaro" target="#PaoloBarbaro">
+            <data key="weight">27.0</data>
+        </edge>
+        <edge id="120" source="#PaoloBarbaro" target="#MattiaBarbaro">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="121" source="#MattiaBarbaro" target="#MattiaBarbaro">
+            <data key="weight">29.0</data>
+        </edge>
+        <edge id="122" source="#MattiaBarbaro" target="#figliaMattia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="123" source="#MattiaBarbaro" target="#RaffaeleBarbaro">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="139" source="#MattiaBarbaro" target="#Ignazio1">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="145" source="#capoMarturano" target="#capoMarturano">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="148" source="#Paolo" target="#PaoloBarbaro">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="149" source="#Paolo" target="#schifazzoFB">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="157" source="#Ignazio1" target="#Calabria">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="158" source="#Ignazio1" target="#Palermo">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="159" source="#Luigi16" target="#Luigi16">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="160" source="#Luigi16" target="#MariaAntonietta">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="161" source="#Luigi16" target="#Ferdinando">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="162" source="#Luigi16" target="#MariaCarolina">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="163" source="#Luigi16" target="#inglesi">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="164" source="#Luigi16" target="#RegnoNapoli">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="165" source="#Luigi16" target="#Francia">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="168" source="#Bagnara" target="#RegnoNapoli">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="169" source="#Messina" target="#Messina">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="181" source="#MattiaBarbaro" target="#Paolo">
+            <data key="weight">10.0</data>
+        </edge>
+        <edge id="184" source="#Paolo" target="#Palermo">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="189" source="#PaoloBarbaro" target="#Palermo">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="190" source="#PaoloBarbaro" target="#Bagnara">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="191" source="#PaoloBarbaro" target="#putia">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="194" source="#Ignazio1" target="#bagnaroti">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="196" source="#Ignazio1" target="#Sicilia">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="198" source="#Ignazio1" target="#Mediterraneo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="200" source="#Ignazio1" target="#putia">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="206" source="#nipoteIgn" target="#Vincenzo1">
+            <data key="weight">10.0</data>
+        </edge>
+        <edge id="209" source="#nipoteIgn" target="#Bagnara">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="210" source="#nipoteIgn" target="#ContrPietra">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="211" source="#nipoteIgn" target="#casaBagnara">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="220" source="#Vincenzo1" target="#casaBagnara">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="234" source="#mogliePaolo" target="#ContrPietra">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="247" source="#Napoli" target="#Napoli">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="248" source="#Napoli" target="#Palermo">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="250" source="#PaoloBarbaro" target="#mogliePaolo">
+            <data key="weight">10.0</data>
+        </edge>
+        <edge id="251" source="#PaoloBarbaro" target="#schifazzoFB">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="258" source="#PaoloBarbaro" target="#Vincenzo1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="260" source="#PaoloBarbaro" target="#casaBagnara">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="269" source="#Paolo" target="#Bagnara">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="270" source="#Paolo" target="#putia">
+            <data key="weight">14.0</data>
+        </edge>
+        <edge id="274" source="#inglesi" target="#inglesi">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="275" source="#inglesi" target="#francesi">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="276" source="#inglesi" target="#Venezia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="278" source="#Napoli" target="#Livorno">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="279" source="#Napoli" target="#Genova">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="281" source="#Napoli" target="#chiesa">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="285" source="#Ignazio1" target="#schifazzoFB">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="288" source="#Calabria" target="#Calabria">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="291" source="#Ignazio1" target="#fedenuziale">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="292" source="#Palermo" target="#Palermo">
+            <data key="weight">29.0</data>
+        </edge>
+        <edge id="293" source="#cala" target="#cala">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="294" source="#cala" target="#portaDoga">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="295" source="#cala" target="#portaCalci">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="296" source="#cala" target="#portaCarbo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="297" source="#cala" target="#chiesa1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="298" source="#cala" target="#chiesa2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="299" source="#cala" target="#chiesa3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="300" source="#cala" target="#chiesa4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="301" source="#cala" target="#chiesa5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="302" source="#cala" target="#castello">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="303" source="#cala" target="#lazzaretto">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="304" source="#montePel" target="#montePel">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="313" source="#mogliePaolo" target="#MattiaBarbaro">
+            <data key="weight">23.0</data>
+        </edge>
+        <edge id="323" source="#mogliePaolo" target="#Palermo">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="324" source="#mogliePaolo" target="#Bagnara">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="345" source="#Ignazio1" target="#PaoloBarbaro">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="361" source="#PaoloBarbaro" target="#Emiddio">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="367" source="#Paolo" target="#Emiddio">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="385" source="#bagnaroti" target="#bagnaroti">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="386" source="#bagnaroti" target="#Palermo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="389" source="#Paolo" target="#casaPalermo1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="391" source="#casaBagnara" target="#putia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="395" source="#Emiddio" target="#Emiddio">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="396" source="#Emiddio" target="#mogliePaolo">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="397" source="#Emiddio" target="#Ignazio1">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="398" source="#Emiddio" target="#portaCalci">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="406" source="#Bagnara" target="#Sicilia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="410" source="#Emiddio" target="#chiesa6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="411" source="#Emiddio" target="#chiesa7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="418" source="#Emiddio" target="#Bagnara">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="419" source="#mastroF" target="#mastroF">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="420" source="#mastroF" target="#Ignazio1">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="421" source="#mastroF" target="#mogliePaolo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="425" source="#mastroF" target="#Emiddio">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="431" source="#mogliePaolo" target="#casaPalermo1">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="442" source="#Palermo" target="#casaPalermo1">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="445" source="#Ignazio1" target="#Vincenzo1">
+            <data key="weight">129.0</data>
+        </edge>
+        <edge id="455" source="#pianoSG" target="#pianoSG">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="456" source="#pianoSG" target="#putia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="460" source="#Bottari" target="#Bottari">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="462" source="#Ignazio1" target="#Bottari">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="470" source="#putia" target="#putia">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="472" source="#Canzoneri" target="#Canzoneri">
+            <data key="weight">17.0</data>
+        </edge>
+        <edge id="473" source="#figliaCanzo" target="#figliaCanzo">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="474" source="#figliaCanzo" target="#Saguto">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="476" source="#Bottari" target="#Saguto">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="479" source="#Canzoneri" target="#Paolo">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="480" source="#Saguto" target="#Saguto">
+            <data key="weight">37.0</data>
+        </edge>
+        <edge id="486" source="#Canzoneri" target="#Bottari">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="487" source="#Canzoneri" target="#putia">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="491" source="#Saguto" target="#Canzoneri">
+            <data key="weight">10.0</data>
+        </edge>
+        <edge id="492" source="#Saguto" target="#Calabria">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="493" source="#Saguto" target="#Palermo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="513" source="#Ignazio1" target="#Canzoneri">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="521" source="#Paolo" target="#Calabria">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="523" source="#Gulì" target="#Gulì">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="524" source="#Gulì" target="#Palermo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="526" source="#primacliente" target="#primacliente">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="527" source="#primacliente" target="#Paolo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="528" source="#primacliente" target="#Gulì">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="532" source="#Ignazio1" target="#primacliente">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="537" source="#cortice" target="#cortice">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="541" source="#Paolo" target="#Peru">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="542" source="#Paolo" target="#cortice">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="609" source="#Saguto" target="#Paolo">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="612" source="#Saguto" target="#putia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="622" source="#Paolo" target="#pianoSG">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="627" source="#Saguto" target="#cortice">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="633" source="#garzoneMichi" target="#garzoneMichi">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="635" source="#Paolo" target="#garzoneMichi">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="639" source="#Paolo" target="#viaMaterassai">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="640" source="#Paolo" target="#castellammare">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="641" source="#Paolo" target="#Mediterraneo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="642" source="#Paolo" target="#magazzinoMaterassai">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="646" source="#Ignazio1" target="#garzoneMichi">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="650" source="#mogliePaolo" target="#pianoSG">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="656" source="#palazzoSteri" target="#palazzoSteri">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="659" source="#mogliePaolo" target="#putia">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="671" source="#bagnaroti" target="#levatrice">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="672" source="#bagnaroti" target="#pianoSG">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="673" source="#bagnaroti" target="#scialle">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="674" source="#levatrice" target="#levatrice">
+            <data key="weight">14.0</data>
+        </edge>
+        <edge id="675" source="#levatrice" target="#mogliePaolo">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="695" source="#nipoteIgn" target="#scialle">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="709" source="#Paolo" target="#palazzoSteri">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="722" source="#Ignazio1" target="#magazzinoMaterassai">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="737" source="#Canzoneri" target="#palazzoSteri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="782" source="#cala" target="#pianoSG">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="809" source="#nipoteIgn" target="#levatrice">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="810" source="#nipoteIgn" target="#bagnaroti">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="812" source="#nipoteIgn" target="#viaSSebastiano">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="843" source="#levatrice" target="#Ignazio1">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="886" source="#Vincenzo1" target="#chiesaPiedi">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="887" source="#Vincenzo1" target="#castello">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="897" source="#Bagnara" target="#Francia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="898" source="#Bagnara" target="#Inghilterra">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="899" source="#Bagnara" target="#Spagna">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="900" source="#Bagnara" target="#India">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="901" source="#Bagnara" target="#Cina">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="902" source="#Bagnara" target="#Peru">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="909" source="#Ignazio1" target="#viaMaterassai">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="916" source="#Paolo" target="#Curatolo">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="917" source="#Paolo" target="#cala">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="919" source="#Curatolo" target="#Curatolo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="928" source="#schifazzoFB" target="#schifazzoFB">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="942" source="#inglesi" target="#Tirreno">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="943" source="#inglesi" target="#Francia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="944" source="#inglesi" target="#Mediterraneo">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="945" source="#inglesi" target="#Palermo">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="946" source="#inglesi" target="#Sicilia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="949" source="#inglesi" target="#Malta">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="950" source="#inglesi" target="#Turchia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="951" source="#inglesi" target="#Egitto">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="952" source="#inglesi" target="#Tunisi">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="953" source="#inglesi" target="#Spagna">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="959" source="#mogliePaolo" target="#barone">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="965" source="#barone" target="#barone">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="966" source="#barone" target="#Peru">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="967" source="#barone" target="#Palermo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="968" source="#barone" target="#cortice">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="982" source="#domesticaRosa" target="#domesticaRosa">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="983" source="#domesticaRosa" target="#mogliePaolo">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="984" source="#domesticaRosa" target="#levatrice">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1013" source="#casaPalermo1" target="#casaPalermo1">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1058" source="#viaMaterassai" target="#viaMaterassai">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1059" source="#viaMaterassai" target="#putia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1062" source="#garzoneMichi" target="#aristocratica">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1063" source="#aristocratica" target="#aristocratica">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="1064" source="#aristocratica" target="#Ignazio1">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1066" source="#PaoloBarbaro" target="#napoletani">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1067" source="#PaoloBarbaro" target="#inglesi">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1068" source="#PaoloBarbaro" target="#siciliani">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1069" source="#Napoleone" target="#Napoleone">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1070" source="#Napoleone" target="#Ferdinando">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1071" source="#Napoleone" target="#inglesi">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="1072" source="#Napoleone" target="#RegnoNapoli">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1073" source="#Napoleone" target="#Sicilia">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1074" source="#Napoleone" target="#Palermo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1079" source="#Paolo" target="#aristocratica">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1103" source="#Ignazio1" target="#Ben">
+            <data key="weight">19.0</data>
+        </edge>
+        <edge id="1106" source="#Ben" target="#Ben">
+            <data key="weight">31.0</data>
+        </edge>
+        <edge id="1108" source="#Saguto" target="#Ignazio1">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="1123" source="#castellammare" target="#castellammare">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1136" source="#garzoneMichi" target="#Mauri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1139" source="#Paolo" target="#Napoli">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1143" source="#Ignazio1" target="#Mauri">
+            <data key="weight">11.0</data>
+        </edge>
+        <edge id="1145" source="#inglesi" target="#palazzoSteri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1147" source="#inglesi" target="#Livorno">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1151" source="#inglesi" target="#magazzinoSteri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1152" source="#magazzinoMaterassai" target="#magazzinoMaterassai">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1153" source="#Mauri" target="#Mauri">
+            <data key="weight">10.0</data>
+        </edge>
+        <edge id="1155" source="#Messina" target="#cortice">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1158" source="#Ignazio1" target="#cala">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1159" source="#vicoloNeve" target="#vicoloNeve">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1160" source="#vicoloNeve" target="#viaAlloro">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1161" source="#vicoloNeve" target="#stradaZaga">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1180" source="#Vincenzo1" target="#viaTavola">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1181" source="#Peppino" target="#Peppino">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1183" source="#Peppino" target="#Vincenzo1">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="1184" source="#francesi" target="#francesi">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1185" source="#francesi" target="#napoletani">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1186" source="#francesi" target="#Paolo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1187" source="#francesi" target="#Marsiglia">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1188" source="#francesi" target="#putia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1191" source="#Vincenzo1" target="#Mauri">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="1201" source="#Ignazio1" target="#Peppino">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1208" source="#Mauri" target="#magazzinoSteri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1211" source="#Mimmo" target="#Mimmo">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1212" source="#Mimmo" target="#Canzoneri">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1213" source="#Mimmo" target="#Gulì">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1222" source="#Ignazio1" target="#Mimmo">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1224" source="#Ignazio1" target="#ufficioFlorio">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="1261" source="#Vincenzo1" target="#putia">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1264" source="#Paolo" target="#Peppino">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1267" source="#Paolo" target="#maestro">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1269" source="#Paolo" target="#piazzaOliva">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1272" source="#Vincenzo1" target="#cortice">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1284" source="#Mauri" target="#Paolo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1285" source="#Orsola" target="#Orsola">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1286" source="#Orsola" target="#Ignazio1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1287" source="#Orsola" target="#Paolo">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1288" source="#Orsola" target="#putia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1302" source="#nipoteIgn" target="#Orsola">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1322" source="#Canzoneri" target="#Palermo">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1334" source="#MattiaBarbaro" target="#Marsala">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1343" source="#Paolo" target="#campagna">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1351" source="#Ignazio1" target="#mastroSalvo">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1358" source="#Paolo" target="#Messina">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1363" source="#Ignazio1" target="#Marsala">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1365" source="#mastroSalvo" target="#mastroSalvo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1378" source="#MattiaBarbaro" target="#bagnaroti">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1381" source="#MattiaBarbaro" target="#Bagnara">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1387" source="#Vincenzo1" target="#RaffaeleBarbaro">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1389" source="#Vincenzo1" target="#MattiaBarbaro">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1405" source="#mogliePaolo" target="#Caruso">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1406" source="#mogliePaolo" target="#campagna">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1410" source="#Ignazio1" target="#Caruso">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1489" source="#Ignazio1" target="#notaio">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1517" source="#Vincenzo1" target="#donSorce">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1522" source="#Mauri" target="#MattiaBarbaro">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1524" source="#Mauri" target="#Bagnara">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1525" source="#Mauri" target="#putia">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1543" source="#GiuseppeBarbaro" target="#GiuseppeBarbaro">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1544" source="#GiuseppeBarbaro" target="#Emiddio">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1547" source="#Orsola" target="#Vincenzo1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1550" source="#nipoteIgn" target="#Emiddio">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1563" source="#Ignazio1" target="#viaSSebastiano">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1565" source="#cala" target="#chiesaPiedi">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1581" source="#VincenzoRomano" target="#VincenzoRomano">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="1582" source="#VincenzoRomano" target="#putia">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1586" source="#ufficioFlorio" target="#ufficioFlorio">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1588" source="#Ignazio1" target="#VincenzoRomano">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1598" source="#VincenzoRomano" target="#Canzoneri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1599" source="#VincenzoRomano" target="#Gulì">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1605" source="#magazzinoMaterassai" target="#magazzinoSteri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1606" source="#magazzinoMaterassai" target="#cortice">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1608" source="#Ignazio1" target="#drogheria">
+            <data key="weight">10.0</data>
+        </edge>
+        <edge id="1628" source="#Ignazio1" target="#pittore">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1629" source="#Ignazio1" target="#castellammare">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1636" source="#clienteMarghe" target="#clienteMarghe">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1638" source="#clienteMarghe" target="#Vincenzo1">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="1645" source="#Ignazio1" target="#VincenzoMazza">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1661" source="#Vincenzo1" target="#ufficioFlorio">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1666" source="#drogheria" target="#drogheria">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="1676" source="#Ignazio1" target="#sommacco">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1680" source="#Vincenzo1" target="#Palermo">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="1682" source="#Ignazio1" target="#Gibbs">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1684" source="#inglesi" target="#Gibbs">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1685" source="#inglesi" target="#Vincenzo1">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1686" source="#inglesi" target="#Ben">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1692" source="#Ben" target="#Vincenzo1">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="1694" source="#Ben" target="#Woodhouse">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1695" source="#Ben" target="#Hopps">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1696" source="#Ben" target="#Gibbs">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1697" source="#Ben" target="#Inghilterra">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1698" source="#Ben" target="#Sicilia">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1703" source="#pianoSG" target="#viaArgentieri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1719" source="#Vincenzo1" target="#palazzoSteri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1720" source="#Vincenzo1" target="#Sicilia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1730" source="#Vincenzo1" target="#Inghilterra">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1732" source="#Mediterraneo" target="#Mediterraneo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1747" source="#Ignazio1" target="#casaPalermo1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1783" source="#chiesa" target="#chiesa">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1784" source="#Leone" target="#Leone">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1785" source="#Leone" target="#Palermo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1786" source="#Leone" target="#drogheria">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1795" source="#Ben" target="#Whitaker">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1796" source="#GiuseppePa" target="#GiuseppePa">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="1797" source="#GiuseppePa" target="#Palermo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1801" source="#GiuseppePa" target="#Ignazio1">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="1804" source="#GiuseppePa" target="#Vincenzo1">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1815" source="#GiuseppePa" target="#Saguto">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="1817" source="#Ignazio1" target="#Whitaker">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1821" source="#GiuseppePa" target="#Ben">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1839" source="#inglesi" target="#Ferdinando">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1864" source="#nipoteIgn" target="#Mistretta">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1865" source="#nipoteIgn" target="#Tirreno">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1867" source="#PietroSpo" target="#PietroSpo">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1871" source="#nipoteIgn" target="#Palermo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1873" source="#PietroSpo" target="#nipoteIgn">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="1874" source="#PietroSpo" target="#Ignazio1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1875" source="#PietroSpo" target="#mogliePaolo">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1888" source="#Vincenzo1" target="#Bagnara">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1894" source="#GiuseppePa" target="#Gu">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1895" source="#GiuseppePa" target="#Nic">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1899" source="#GiuseppePa" target="#drogheria">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1900" source="#Gu" target="#Gu">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1901" source="#Gu" target="#Saguto">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1902" source="#Gu" target="#Canzoneri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1904" source="#Gu" target="#Vincenzo1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1905" source="#Gu" target="#ufficioFlorio">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1910" source="#Vincenzo1" target="#Saguto">
+            <data key="weight">9.0</data>
+        </edge>
+        <edge id="1921" source="#Marianna" target="#Marianna">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1923" source="#mogliePaolo" target="#Marianna">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1928" source="#Isa" target="#Isa">
+            <data key="weight">23.0</data>
+        </edge>
+        <edge id="1929" source="#Isa" target="#Vincenzo1">
+            <data key="weight">21.0</data>
+        </edge>
+        <edge id="1933" source="#Ignazio1" target="#piazzaEligio">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1941" source="#Ignazio1" target="#Inghilterra">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1945" source="#mogliePaolo" target="#Inghilterra">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1961" source="#Vincenzo1" target="#Canzoneri">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="1968" source="#Vincenzo1" target="#cala">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1969" source="#Vincenzo1" target="#viaSSebastiano">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1972" source="#Napoleone" target="#Mediterraneo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1976" source="#Vincenzo1" target="#Gulì">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1980" source="#inglesi" target="#napoletani">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1982" source="#siciliani" target="#siciliani">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="1983" source="#siciliani" target="#Palermo">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1984" source="#siciliani" target="#Messina">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="1989" source="#napoletani" target="#napoletani">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="1991" source="#napoletani" target="#Palermo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2017" source="#Isa" target="#piazzaEligio">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2019" source="#Isa" target="#baronessaPilli">
+            <data key="weight">9.0</data>
+        </edge>
+        <edge id="2023" source="#baronessaPilli" target="#baronessaPilli">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2030" source="#mogliePaolo" target="#chiesa6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2052" source="#Ignazio1" target="#napoletani">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2057" source="#Ignazio1" target="#Isa">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2072" source="#Isa" target="#mogliePaolo">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="2107" source="#Vincenzo1" target="#piazzaEligio">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2113" source="#baronessaPilli" target="#Vincenzo1">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="2148" source="#Ben" target="#Leeds">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2169" source="#Ben" target="#Isa">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2172" source="#Ben" target="#Palermo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2195" source="#Vincenzo1" target="#Marsiglia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2196" source="#Vincenzo1" target="#Calabria">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2212" source="#nipoteIgn" target="#Sicilia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2243" source="#Ignazio1" target="#inglesi">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2249" source="#Vincenzo1" target="#Londra">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2251" source="#Sicilia" target="#Sicilia">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2253" source="#Sicilia" target="#sommacco">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2265" source="#Ignazio1" target="#cortice">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="2267" source="#Vincenzo1" target="#sommacco">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2269" source="#francesi" target="#Gulì">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2270" source="#francesi" target="#Ignazio1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2273" source="#francesi" target="#sommacco">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2275" source="#Vincenzo1" target="#francesi">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2276" source="#Vincenzo1" target="#zolfo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2277" source="#zolfo" target="#zolfo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2285" source="#Palermo" target="#Sicilia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2286" source="#Palermo" target="#cortice">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2297" source="#Ignazio1" target="#figlioCanzoneri">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="2298" source="#figlioCanzoneri" target="#figlioCanzoneri">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="2309" source="#Saguto" target="#figlioCanzoneri">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2313" source="#Canzoneri" target="#figlioCanzoneri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2315" source="#figlioCanzoneri" target="#Gulì">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2316" source="#figlioCanzoneri" target="#Paolo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2318" source="#figlioCanzoneri" target="#Palermo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2322" source="#Vincenzo1" target="#figlioCanzoneri">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2334" source="#Ignazio1" target="#Gulì">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2335" source="#Ignazio1" target="#Pizzimenti">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2342" source="#Saguto" target="#Pizzimenti">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2343" source="#Saguto" target="#Gulì">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2352" source="#Ferdinando" target="#Ferdinando">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2353" source="#Ferdinando" target="#Napoli">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2357" source="#Ignazio1" target="#pianoSG">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2369" source="#siciliani" target="#Sicilia">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2379" source="#Ignazio1" target="#palazzoSteri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2387" source="#Vincenzo1" target="#doganiere">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="2390" source="#doganiere" target="#doganiere">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2398" source="#doganiere" target="#Ben">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2399" source="#portaDoga" target="#portaDoga">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2439" source="#Vincenzo1" target="#magazzinoMaterassai">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2454" source="#Vincenzo1" target="#tritacortice">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="2474" source="#Paolo" target="#fedenuziale">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2483" source="#Ignazio1" target="#china">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2486" source="#Mauri" target="#drogheria">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2498" source="#Ignazio1" target="#vicere">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="2509" source="#vicere" target="#vicere">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="2513" source="#Ignazio1" target="#tritacortice">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2515" source="#vicere" target="#china">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2528" source="#Palermo" target="#viaMaterassai">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2530" source="#Palermo" target="#Licata">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2531" source="#Palermo" target="#Canicatti">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2532" source="#Palermo" target="#Marsala">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2533" source="#Palermo" target="#Alcamo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2534" source="#Palermo" target="#Girgenti">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2535" source="#Palermo" target="#ufficioFlorio">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2536" source="#Palermo" target="#china">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2540" source="#Ignazio1" target="#Assunta">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2548" source="#Saguto" target="#Franci">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="2549" source="#Saguto" target="#drogheria">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2555" source="#Vincenzo1" target="#china">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2577" source="#Vincenzo1" target="#viaMaterassai">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2578" source="#Franci" target="#Franci">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2579" source="#Franci" target="#Ignazio1">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2580" source="#Franci" target="#Mauri">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2581" source="#Franci" target="#Vincenzo1">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2593" source="#Vincenzo1" target="#drogheria">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2599" source="#Franci" target="#ufficioFlorio">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2600" source="#viaAlloro" target="#viaAlloro">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2625" source="#Isa" target="#Saguto">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2631" source="#viaMaterassai" target="#castellammare">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2633" source="#Palermo" target="#castellammare">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2647" source="#Vincenzo1" target="#IgnazioMessina">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="2665" source="#Vincenzo1" target="#tonnaraArenella">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2678" source="#IgnazioMessina" target="#IgnazioMessina">
+            <data key="weight">9.0</data>
+        </edge>
+        <edge id="2680" source="#IgnazioMessina" target="#Mauri">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2681" source="#IgnazioMessina" target="#Ignazio1">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="2686" source="#cala" target="#Palermo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2695" source="#Ignazio1" target="#tonnaraArenella">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2697" source="#IgnazioMessina" target="#tonnaraArenella">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2704" source="#Olimpia" target="#Olimpia">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="2709" source="#Olimpia" target="#Ignazio1">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="2710" source="#Olimpia" target="#Vincenzo1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2723" source="#Olimpia" target="#mogliePaolo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2742" source="#IgnazioMessina" target="#notaioSerretta">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2743" source="#IgnazioMessina" target="#viaMaterassai">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2745" source="#Vincenzo1" target="#bagnaroti">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2747" source="#notaioSerretta" target="#notaioSerretta">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="2755" source="#notaioSerretta" target="#MattiaBarbaro">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2756" source="#notaioSerretta" target="#Bagnara">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2767" source="#IgnazioMessina" target="#mogliePaolo">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2769" source="#IgnazioMessina" target="#drogheria">
+            <data key="weight">1.0</data>
+        </edge>
+    </graph>
+</graphml>
